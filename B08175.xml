@@ -1,0 +1,859 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christs kingdome discovered: or, That the true church of God is in England, cleerly made manifest against all sectaries whatsoeuer. by Iohn Traske..</title>
+            <author>Traske, John, d. ca. 1638</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1616</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 104 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08175</idno>
+            <idno type="STC">STC 24175.7</idno>
+            <idno type="STC">ESTC S95559</idno>
+            <idno type="EEBO-CITATION">72800005</idno>
+            <idno type="OCLC">ocm 72800005</idno>
+            <idno type="VID">184140</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08175)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184140)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2230:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christs kingdome discovered: or, That the true church of God is in England, cleerly made manifest against all sectaries whatsoeuer. by Iohn Traske..</title>
+                  <author>Traske, John, d. ca. 1638</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second Edition..</edition>
+               </editionStmt>
+               <extent>[6], 67, [1] p. : Ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho: Creede, and Bern: Alsop, for Iosias Harrison: and are to be sold in Pater noster-row, at the signe of the Golden Anker.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1616..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within line border, headpieces, tailpieces, initials.</note>
+                  <note>Signatures: A-D⁸ E⁶.</note>
+                  <note>Errata: p. [1] at end.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+                  <note>Includes bibliographical references in marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184140:1"/>
+            <pb facs="tcp:184140:1"/>
+            <p>CHRISTS KINGDOME <hi>DISCOVERED:</hi> OR, That the true Church of God is <hi>in England, cleerly made</hi> ma<g ref="char:EOLhyphen"/>nifeſt againſt all Secta<g ref="char:EOLhyphen"/>ries <hi>whatſoeuer.</hi>
+            </p>
+            <p>By <hi>Iohn Traske.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>DAN. 12.10.</hi>
+               </bibl>
+               <p>None of the wicked ſhall vnderstand; but the Wiſe ſhall vnderſtand.</p>
+               <bibl>
+                  <hi>MAT. 11.19.</hi>
+               </bibl>
+               <p>Wiſedom is iuſtified of her Children.</p>
+            </q>
+            <p>The ſecond Edition.</p>
+            <p>LONDON, Printed by <hi>Tho: Creede,</hi> and <hi>Bern: Alſop,</hi> for <hi>Ioſias Harriſon:</hi> and are to be ſold in <hi>Pater noſter-row,</hi> at the ſigne of the <hi>Golden Anker.</hi> 1616.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:184140:2" rendition="simple:additions"/>
+            <pb facs="tcp:184140:2"/>
+            <head>To all the bleſſed People of <hi>England, euen all ſuch as deſire</hi> the peace of the Land, together <hi>with the flouriſhing of the Church,</hi> grace and peace be multiplied.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Eere is offered to your view ſome helpe to the rea<g ref="char:EOLhyphen"/>ding of the holy Scriptures; the vnderſtanding of the Prophecies; but eſpecially of the Eſtate of the Church, that ſo you may no longer bee carryed vp and downe with euery winde of Doctrine. But as you haue begun to attend vpon the word preached in England, and to practiſe thoſe other Duties publique and priuate, our Church requireth;
+<pb facs="tcp:184140:3"/> ſo it will be comfortable to your ſoules, and profitable to the Common-wealth, if you proceede, not turning to the right hand or to the left: Wherefore it is deſired, that you would read it once ouer without taking notice of the quotations of Scripture; and hauing read once ouer, then try at the next reading whether the Scriptures bee rightly vſed, for that they ſeeme to be heere placed: and know that the laſt Tranſlation is followed, as that by the which the Writer hath often confeſ<g ref="char:EOLhyphen"/>ſed, that he hath receiued more bene<g ref="char:EOLhyphen"/>fite, then by all the Expoſitors that euer hee read. And thou art deſired withall to eſteeme that tranſlation highly, and make it one cauſe of hear<g ref="char:EOLhyphen"/>tie thankſgiuing to GOD, who hath giuen, &amp; continued to vs a King that hath beene a principall mouer in ſuch a great buſineſſe; as alſo gifts vnto Men, that ſo much light is ſprung out by their meanes. Albeit thou ſhalt
+<pb facs="tcp:184140:3"/> happily meete with ſome priuate Spi<g ref="char:EOLhyphen"/>rits that will bee ready to cenſure ſharply; that, by the which the Church of GOD, will (certainely) at length reape great benefite. And ſo deſiring thy feruent prayers for the aduance<g ref="char:EOLhyphen"/>ment of Chriſts Kingdome, I reſt yet a while.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Mar. 2. 1615.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="summary_of_contents">
+            <pb facs="tcp:184140:4"/>
+            <pb facs="tcp:184140:4"/>
+            <list>
+               <item>CHRISTS Kingdome diſcouered: by three things.
+<list>
+                     <item>
+                        <hi>1.</hi> The Enquirie this in; three.
+<list>
+                           <item>
+                              <hi>1.</hi> What it is? in two.
+<list>
+                                 <item>
+                                    <hi>1.</hi> The titles: theſe foure
+<list>
+                                       <item>
+                                          <hi>1.</hi> Kingdom of God: this onely referred to both eſtates.
+<list>
+                                             <item>
+                                                <hi>1.</hi> To this Life.</item>
+                                             <item>
+                                                <hi>2.</hi> To that to come.</item>
+                                          </list>
+                                       </item>
+                                       <item>
+                                          <hi>2.</hi> Kingdome of Heauen.</item>
+                                       <item>
+                                          <hi>3.</hi> Sonne of mans Kingdom</item>
+                                       <item>
+                                          <hi>4.</hi> Kingdome of CHRIST.</item>
+                                    </list>
+                                 </item>
+                                 <item>
+                                    <hi>2.</hi> the things: theſe ſeauen.
+<list>
+                                       <item>
+                                          <hi>1.</hi> A KING.</item>
+                                       <item>
+                                          <hi>2.</hi> A SCEPTER.</item>
+                                       <item>
+                                          <hi>3.</hi> LAWES.</item>
+                                       <item>
+                                          <hi>4.</hi> AMBASSADORS.</item>
+                                       <item>
+                                          <hi>5.</hi> S<g ref="char:V">Ʋ</g>BIECTS.</item>
+                                       <item>
+                                          <hi>6.</hi> OFFICERS.</item>
+                                       <item>
+                                          <hi>7.</hi> ARMOR.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>
+                              <hi>2</hi> Where it is? in two.
+<list>
+                                 <item>
+                                    <hi>1.</hi> on Earth, n t in heaue<g ref="char:cmbAbbrStroke">̄</g> In this life, not that to come:</item>
+                                 <item>
+                                    <hi>2:</hi> In what place? this by three
+<list>
+                                       <item>
+                                          <hi>1.</hi> It is not tyed to any one Kingdome or People.</item>
+                                       <item>
+                                          <hi>2.</hi> It is aboue that Kingdome where it is.</item>
+                                       <item>
+                                          <hi>3.</hi> Whereſoeuer the Saints are, there it is.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>When it began? in two <gap reason="illegible" resp="#UOM" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap>
+                              <list>
+                                 <item>
+                                    <hi>1.</hi> It hath bene euer open to Belieuers.</item>
+                                 <item>
+                                    <gap reason="illegible" resp="#UOM" extent="1 span">
+                                       <desc>〈…〉</desc>
+                                    </gap>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>full not a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:184140:5"/>
+            <pb n="1" facs="tcp:184140:5"/>
+            <head>CHRISTS KING<g ref="char:EOLhyphen"/>dome Diſcouered.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here are two princi<g ref="char:EOLhyphen"/>pall Endes, at which the whole Scripture aymes. The firſt is,<note place="margin">
+                  <hi>Rom.</hi> 11.36. <hi>Deut.</hi> 29.29.</note> Gods Glory. <hi>Rom.</hi> 11.36. The ſecond, our Good. <hi>Deuteronom:</hi> 29.29.</p>
+            <p>Concerning this latter: Two things are obſerueable. Firſt, our eſtate in this life: Secondly, when this life is ended. About our eſtate here; There is one thing neceſſarie. <hi>Luc:</hi> 10.42.<note place="margin">
+                  <hi>Luk.</hi> 10.42.</note> And about this neceſſary thing, three neceſſary Circumſtances: Firſt, that it is to bee ſought, or enquired after. Secondly, being found, to be ſeized on, or entred into. Thirdly, beeing enioyed as our own, we muſt be care<g ref="char:EOLhyphen"/>full of the vſe thereof; that wee be not againe depriued of it.</p>
+            <pb n="2" facs="tcp:184140:6"/>
+            <p>This one neceſſarie thing; is <hi>Christs Kingdome.</hi> This is that, which muſt bee <hi>Enquired for;</hi> or ſought out: be<g ref="char:EOLhyphen"/>ing <hi>Found,</hi> muſt bee <hi>ſeized on,</hi> or en<g ref="char:EOLhyphen"/>tred into: and hauing found, and en<g ref="char:EOLhyphen"/>tred; <hi>Diligence</hi> muſt bee <hi>daylie</hi> vſed to make a <hi>greater Entrance,</hi> and con<g ref="char:EOLhyphen"/>tinuallie to walke worthie of ſuch a <hi>glorious eſtate.</hi>
+            </p>
+            <p>That it muſt be <hi>ſought,</hi> is plaine: where it is written, <hi>Seeke yee first the Kingdome of God,</hi>
+               <note place="margin">
+                  <hi>Math.</hi> 6.33. <hi>Lu.</hi> 12.13. <hi>Matth.</hi> 7.13.</note> 
+               <hi>and his Righteouſ<g ref="char:EOLhyphen"/>nes, Math:</hi> 6.33. <hi>Luk.</hi> 12.31. That it muſt be entred into, is plaine: where it is written, <hi>Enter in at the ſtraight gate, Matth:</hi> 7.13.</p>
+            <p>And, <hi>Except your Righteouſnes ex<g ref="char:EOLhyphen"/>ceede the Righteouſnes of the Scribes and Phariſees, yee can in no caſe enter into the Kingdome of Heauen.</hi>
+               <note place="margin">
+                  <hi>Ma.</hi> 5.20</note> 
+               <hi>Mat.</hi> 5.20.</p>
+            <p>That wee are to <hi>Walke worthie</hi> of this <hi>estate;</hi> and daylie to make a greater entrance into this <hi>Kingdom:</hi> is plaine alſo in that charge which the <hi>Apostle</hi> had giuen to the <hi>Theſſa<g ref="char:EOLhyphen"/>lonians: That they would walke worthie of GOD,</hi>
+               <note place="margin">1. <hi>Theſſ.</hi> 2.12.</note> 
+               <hi>who had called them to his Kingdome and Glorie.</hi> 1. <hi>Theſſal:</hi> 2.12.</p>
+            <pb n="3" facs="tcp:184140:6"/>
+            <p>And where it is alſo written, <hi>Giue all diligence, adde to your Faith, <g ref="char:V">Ʋ</g>ertue; and to your <g ref="char:V">Ʋ</g>ertue, Knowledge; and to Knowledge, Temperance; and to Tempe<g ref="char:EOLhyphen"/>rance, Patience: and to Patience, Godlineso; &amp; to godlines, brotherly kindeneſſe; &amp; to brotherly kindnes, loue; For if yee doe theſe things, ye ſhall neuer fall; For an Entrance ſhalbe ministred vnto you aboundantly, in<g ref="char:EOLhyphen"/>to the euerlasting Kingdome of our Lorde and Sauiour Ieſus Christ.</hi> 2. <hi>Pet.</hi> 1.5.6.<note place="margin">2. <hi>Pet.</hi> 1. 5 6.7.10.11.</note>7.10.11.</p>
+            <p>Now that ſeeking, we may finde: it ſhalbe ſhewed: Firſt, what this king<g ref="char:EOLhyphen"/>dome is. Secondly, where it is. Thirdly, when it might properly be ſaid to beginne. And firſt, what it is; It is that <hi>Spirituall Gouernement,</hi> which <hi>God the Father</hi> is ſaide to giue vnto the <hi>Sonne,</hi> and which the <hi>Sonne</hi> is ſaide to <hi>deſire</hi> of the <hi>Father:</hi> which alſo both the <hi>Father</hi> and the <hi>Sonne</hi> doe order by the Spirite: Not that one of them is before, or after other; That one is greater or leſſe then o<g ref="char:EOLhyphen"/>ther in this <hi>Administration;</hi> but that all three are <hi>Equall,</hi> and as one doe order this <hi>great buſineſſe.</hi> Euen that
+<pb n="4" facs="tcp:184140:7"/> Kingdome which the Sonne ſhall a<g ref="char:EOLhyphen"/>gaine at the ende deliuer vp vnto his Father. As it is written, <hi>Yet haue I ſet my King vpon my holy hill of Syon, I will declare the Decree: the Lorde hath ſaide vnto me, Thou art my Sonne, this day haue I begotten thee. Aske of mee, and I ſhall giue thee the Heathen for thine Inheri<g ref="char:EOLhyphen"/>tance, &amp; the vttermoſt parts of the Earth, for thy Poſſeſſion; Pſalm.</hi> 2.6.7.8. And <hi>Peter</hi> wryteth thus, <hi>We haue not follow<g ref="char:EOLhyphen"/>ed cunningly deuiſed fables,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 2.6.7.8.</note> 
+               <hi>when we made knowne vnto you, the power and comming of our Lorde Ieſus Chriſt, but were eye-wit<g ref="char:EOLhyphen"/>neſſes of his Maieſtie. For hee receyued from God the Father, honour and Glorie, when there came ſuch a voyce to him, from the excellent glorie.</hi>
+               <note place="margin">2. <hi>Pet.</hi> 1.16.17.</note> 2. <hi>Pet.</hi> 1.16.17.</p>
+            <p>Alſo <hi>Paule</hi> writeth thus: <hi>Chriſt the firſt fruites, afterward, they that are Chriſts at his comming. Then the Ende, when he ſhall haue deliuered vp the King<g ref="char:EOLhyphen"/>dome to God, euen the Father.</hi> 1. <hi>Cor.</hi> 15.23.24.<note place="margin">1. <hi>Cor.</hi> 15 23.24</note> Thus you ſee it is manifeſt; That the <hi>Sonne deſireth,</hi> God the <hi>Fa<g ref="char:EOLhyphen"/>ther giueth,</hi> according to his deſire; and at the end ſhall againe deliuer vp this which he hath receiued, to God
+<pb n="5" facs="tcp:184140:7"/> the Father, and then <hi>GOD</hi> ſhall be all in all.</p>
+            <p>This Kingdome is ſometimes ter<g ref="char:EOLhyphen"/>med the <hi>Church of the Liuing GOD;</hi>
+               <note place="margin">1. <hi>Cor.</hi> 14.28. 1. <hi>Tim.</hi> 3.15. <hi>Heb.</hi> 12.23. <hi>Pſal.</hi> 15.1 <hi>Ezek</hi> 37.27. <hi>Reu.</hi> 21.3</note> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Cor:</hi> 14.28. Sometimes the <hi>Houſe of God,</hi> 1. <hi>Tim.</hi> 3.15. Sometimes the <hi>Citie of the Liuing God;</hi> the <hi>New Ieru<g ref="char:EOLhyphen"/>ſalem: Hebr:</hi> 12.23. Sometimes the <hi>Tabernacle of God. Pſalme:</hi> 15.1. <hi>Eze:</hi> 37.27. <hi>Reuel:</hi> 21.3. Albeit ney<g ref="char:EOLhyphen"/>ther of theſe doe ſo fully and cleerely diſcouer this great Myſterie: as this Title Kingdome.</p>
+            <p>Yet heerein God is to bee praiſed, in that he vouchſafeth ſo to deſcend to our Capacitie, as to vſe all theſe: that they which cannot conceyue it by one, may vnderſtand it by an o<g ref="char:EOLhyphen"/>ther. As thoſe that knowe but a <hi>Ta<g ref="char:EOLhyphen"/>bernacle</hi> or <hi>Tent,</hi> may thereby be hol<g ref="char:EOLhyphen"/>pen, to the apprehenſion of it; Thoſe that are not acquainted with a <hi>Tent,</hi> knowing a <hi>Houſe,</hi> may yet conceiue it: Such as knowe <hi>Tents</hi> and <hi>Houſes,</hi> yea Cities, may more fully ſee it: And ſuch as knowe a <hi>Kingdome,</hi> may bee ledde (as it were by the hand) to the viewe of euery part thereof. Thus,
+<pb n="6" facs="tcp:184140:8"/> God hath profered the viewe thereof to all: To <hi>Kings,</hi> diſcouering it by a <hi>Kingdome, Dan.</hi> 2.44. To <hi>Citizens,</hi> by the viewe of a <hi>Citie. Pſal.</hi> 48.1.2. To <hi>Houſeholders,</hi> by comparing it to a <hi>Houſe.</hi> 1. <hi>Pet.</hi> 2.5. To <hi>Souldiers,</hi> by vſing a borrowed word of a <hi>Taberna<g ref="char:EOLhyphen"/>cle,</hi> or <hi>Tent. Heb.</hi> 8.3. What ſhall I ſay? He offereth the view thereof, to <hi>Merchants; Matth:</hi> 13.44.46. To <hi>Husband-men, Math.</hi> 13.24. <hi>Fiſhers. Math:</hi> 13.47. <hi>Women. Matth.</hi> 13.33. <hi>
+                  <g ref="char:V">Ʋ</g>irgins. Matth.</hi> 25.1. <hi>Seruants, Matt.</hi> 25.14. <hi>To All; Matth.</hi> 22.1. That ſo, ſome of all ſorts might receiue it: And all, bee they what they will that refuſe, might be voyd of all Excuſe.</p>
+            <p>That now we may be yet more ac<g ref="char:EOLhyphen"/>quainted with it, let vs conſider of the <hi>Titles</hi> and the <hi>Partes</hi> thereof.</p>
+            <p>The <hi>Titles</hi> are moſt vſually foure: The firſt, is the <hi>Kingdome of GOD:</hi> the ſecond, the <hi>Kingdome of Heauen:</hi> the thirde, the <hi>Sonne of Mans King<g ref="char:EOLhyphen"/>dome:</hi> the fourth, the <hi>Kingdome of CHRIST:</hi> The firſt, doeth indiffe<g ref="char:EOLhyphen"/>rently concerne the eſtate we do here enioy, with that <hi>hereafter.</hi> The eſtate
+<pb n="7" facs="tcp:184140:8"/> heereafter, where it is written, <hi>Fleſh and Blood cannot inherit the Kingdome of God, neither doth corruption, inherit incor<g ref="char:EOLhyphen"/>ruption.</hi> 1. <hi>Corinth.</hi> 15.50.<note place="margin">1. <hi>Cor:</hi> 15.50.</note> The other three concerne the Church, heere in this life: and eyther of them, may be vſed indifferently, as may bee made manifeſt, by comparing them toge<g ref="char:EOLhyphen"/>ther; As where it is written, <hi>That a Ritch-man can hardly enter into the King<g ref="char:EOLhyphen"/>dome of Heauen; Mat:</hi> 19.23.<note place="margin">
+                  <hi>Matt.</hi> 19.23.</note> And in the next verſe, ſpeaking of the ſame thing, wee finde it thus; <hi>It is eaſier for a Cammell, to goe through the eye of a nee<g ref="char:EOLhyphen"/>dle, then for a Ritch-man to enter into the Kingdome of God; Math.</hi> 19.24.<note place="margin">
+                  <hi>Matt.</hi> 19.24.</note> Where we find the Kingdom of Heauen, or of God, vſed indifferently. So wee may alſo ſee of the reſt: As where it is thus written, <hi>There be ſome ſtanding heere, which ſhall not taſte of Death, till they ſee the Sonne of Man comming in his King<g ref="char:EOLhyphen"/>dom. Matth.</hi> 16.28.<note place="margin">
+                  <hi>Matt.</hi> 16.28.</note> There it is ter<g ref="char:EOLhyphen"/>med, the Sonne of mans Kingdome: or more plainely, the Kingdome of <hi>Christ.</hi> And ſpeaking againe of the ſame thing, in another place, it is thus written, <hi>There bee ſome ſtanding heere,
+<pb n="8" facs="tcp:184140:9"/> which ſhall not taſte of Death, till they ſee the Kingdome of God:</hi>
+               <note place="margin">
+                  <hi>Mar:</hi> 9.1 <hi>Lu.</hi> 9.27.</note> 
+               <hi>Mark.</hi> 9.1. <hi>Luke.</hi> 9.27. Thus theſe three, may bee vſed indifferently one for another; yea, all the foure Titles. Yea, and the firſt doeth concerne moſte the eſtate of the Church in this life, and is ſo al<g ref="char:EOLhyphen"/>wayes to be vnderſtood, where there is no manifeſt difference in the ſame Scripture.</p>
+            <p>Nowe the Title, which doth moſt fully and cleerely ſet foorth this great miſtery;<note place="margin">
+                  <hi>Ephe.</hi> 5.5. <hi>Re.</hi> 11.15 1. <hi>Pet.</hi> 1.11.</note> and includeth all the reſt in it, is the laſt: which is, <hi>The Kingdom of Chriſt; Epheſ.</hi> 5.5. <hi>Reuel.</hi> 11.15. 2. <hi>Pet.</hi> 1.11. Termed the Kingdome of God: becauſe <hi>CHRIST</hi> is <hi>GOD;</hi> And the Kingdome of the Sonne of man, becauſe he alſo is <hi>MAN:</hi> And the Kingdome of Heauen; to ſhewe that hee receiued his gouernment fro<g ref="char:cmbAbbrStroke">̄</g> Heauen. But not ſo much deſirous to ſhew the reaſons of Titles, as the truth of things: I haue onely thus briefly touched theſe, as ſome helpe to the vnderſtanding of the Scriptures; wherein theſe termes or Titles are of<g ref="char:EOLhyphen"/>ten found.</p>
+            <pb n="9" facs="tcp:184140:9"/>
+            <p>Now of the things, of which prin<g ref="char:EOLhyphen"/>cipally this Kingdome conſiſteth; and theſe are ſeuen, which ſhall bee touched alſo briefly: And firſt,<note place="margin">1. King.</note> As in other Kingdomes, or Kingdomes of this World, there are <hi>Kings,</hi> from which they properly are termed <hi>King<g ref="char:EOLhyphen"/>domes:</hi> So here is a glorious <hi>King,</hi> and bleſſed <hi>Prince:</hi> euen that Rod, out of the ſtemme of <hi>Ieſſe;</hi> and that <hi>Branch out of his rootes.</hi> That man whoſe name is, <hi>The Branch, The Lord our Righteouſ<g ref="char:EOLhyphen"/>neſſe, Christ Ieſus:</hi> As it is written, <hi>Yet haue I ſet my King vpon my holy hill of Sion:</hi> And in another place, <hi>Re<g ref="char:EOLhyphen"/>ioyce greatly, ô Daughter Sion, ſhout ô Daughter Hieruſalem; behold thy King commeth vnto thee, he is iuſt, and hauing ſaluation: lowly, and riding vpon an Aſſe, and vpon a Colt, the Foale of an Aſſe.</hi>
+               <note place="margin">
+                  <hi>Iſ.</hi> 62.11. <hi>Zach.</hi> 9.9.</note> 
+               <hi>Iſ.</hi> 62.11. <hi>Zach.</hi> 9.9. Thus did Chriſt, as wee read in the Goſpell, <hi>Mat.</hi> 21.7.8. <hi>Mar.</hi> 11.2. <hi>Io.</hi> 12.15.<note place="margin">
+                  <hi>Mat.</hi> 21.7.8. <hi>Mar.</hi> 11.2. <hi>Io.</hi> 12.15.</note> where they are ſaide to cry <hi>Hoſanna, to the Sonne of Dauid: bleſſed is hee that com<g ref="char:EOLhyphen"/>meth in the Name of the Lord.</hi> And <hi>Paul</hi> ſpeaking expreſly of Chriſt, applieth that of the Prophet <hi>Iſaiah</hi> to him thus;
+<pb n="10" facs="tcp:184140:10"/> 
+               <hi>There ſhall be a roote of Ieſſe, and him that ſhall riſe to raigne ouer the Gentiles, in him ſhall the Gentiles trust.</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 15.12. 2. Scepter</note> And thus you haue the King.</p>
+            <p>Secondly, as in other <hi>Kingdomes</hi> there are <hi>Scepters,</hi> to which Subiects muſt ſtoupe; and to which ſuch as ſtoupe not are yet <hi>Rebels:</hi> So heere is a <hi>Scepter</hi> in the hand of Chriſt, by which men are knowne that yeelde true <hi>Subiection.</hi> And this <hi>Scepter</hi> is <hi>the righteouſnes of Faith.</hi> By this hee rules his Subiects; as <hi>Paul</hi> confeſſeth, where it is thus written; <hi>I count all things but loſſe for the Excellencie of the Knowledge of Ieſus Chriſt my Lord; for whom I haue ſuffered the loſſe of all things, and doe count them but dung that I might winne Chriſt: and bee found in him, not hauing mine owne Righteouſnes, which is of the Law, but that which is through the Faith of Chriſt; the Righteouſnes which is of God by Faith. That I might know him, and the power of his Reſurrection, and the fellowſhippe of his ſufferings, being made conformable to his death:</hi>
+               <note place="margin">
+                  <hi>Phil.</hi> 3.8, 9, 10.</note> 
+               <hi>Phil.</hi> 3.8, 9.10. So it is written in the <hi>Pſalme: Thy Throne ô God is for euer, the Scepter
+<pb n="11" facs="tcp:184140:10"/> of thy Kingdome is a right Scepter.</hi> Ap<g ref="char:EOLhyphen"/>plyed by the ſame Spirit to Chriſt: <hi>But vnto the Sonne he ſayd, Thy Throne ô God is for euer and euer, the Scepter of Righteouſnes is the Scepter of thy King<g ref="char:EOLhyphen"/>dome.</hi> And ſo you haue the Scepter.</p>
+            <p>Thirdly,<note place="margin">3. Lawes.</note> in Kingdomes of this World there are <hi>Lawes</hi> &amp; <hi>Ordinances:</hi> So alſo in this; there are <hi>Lawes</hi> that are <hi>perfect, ſure, right, pure, cleane, true, righteous, deſireable, and moſt ſweet, Pſa.</hi> 19.7, 8.9, 10. Yea,<note place="margin">
+                  <hi>Pſal.</hi> 19.7, 8, 9, 10.</note> heere are Lawes, Statutes, and Iudgements: Euen, <hi>All Scripture giuen by inſpiration of God; and profitable for doctrine, for re<g ref="char:EOLhyphen"/>proofe, for correction, for inſtruction in righteouſnes:</hi> 2 <hi>Tim.</hi> 3.16.<note place="margin">2 <hi>Tim.</hi> 3.16.</note> This was Prophecied of, where it is written, <hi>Remember yee the Law of</hi> Moſes <hi>my ſer<g ref="char:EOLhyphen"/>uant, which I commaunded vnto him in Horeb, for all Iſrael; with the Statutes, and Iudgements: Mal.</hi> 4.4.<note place="margin">
+                  <hi>Mal.</hi> 4.4.</note> Theſe are the <hi>Lawes</hi> of this Kingdome; to which whoſoeuer ſhall adde, he is accusſed of GOD: <hi>Deut.</hi> 4.2. the 12.32.<note place="margin">
+                  <hi>Deut.</hi> 4.2. <hi>&amp;</hi> 12.13.</note> And from which, whoſoeuer ſhall take away, God ſhall take away his part out of the Book of Life: <hi>Reu.</hi> 22.<note place="margin">
+                  <hi>Reuel.</hi> 22.18.19.</note>
+               <pb n="12" facs="tcp:184140:11"/> 18, 19. For, <hi>Till heauen and earth paſſe, one</hi> Iot, <hi>or one</hi> Title <hi>ſhall in no wiſe paſſe from the</hi> Lawe,<note place="margin">
+                  <hi>Mat.</hi> 5.18. 4. Am<g ref="char:EOLhyphen"/>baſſadors</note> 
+               <hi>till all be fulfilled:</hi> Mat. 5.18.</p>
+            <p>In Earthly <hi>Kingdomes</hi> there are al<g ref="char:EOLhyphen"/>ſo <hi>Ambaſſadors,</hi> whom the <hi>Kings</hi> ſend; and being ſo ſent, they repreſent their owne <hi>Perſons:</hi> either in calling in <hi>Rebels,</hi> or by treating with <hi>Enemies,</hi> to proclaime <hi>Warre,</hi> or to offer conditi<g ref="char:EOLhyphen"/>ons of <hi>Peace</hi> vnto them: So in this <hi>Kingdom,</hi> there are <hi>Ambaſſadors,</hi> which are tearmed <hi>Preachers, Rom.</hi> 10.14. <hi>Miniſters,</hi> 1 <hi>Cor.</hi> 3.5. <hi>Stewards,</hi> 1 <hi>Cor.</hi> 4.1. And the <hi>Prophets</hi> making vſe of their owne words, haue termed them <hi>Prieſts</hi> and <hi>Leuites, Iſ.</hi> 66.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. or <hi>Saui<g ref="char:EOLhyphen"/>ours, Obad.</hi> 21. <hi>Gladtidings bringers, Iſ.</hi> 52.7: and the like: As it is written; <hi>Behold vpon the Mountaines the feete of him that bringeth good</hi> Tidings, <hi>Nah.</hi> 1.15. And <hi>Paul</hi> vſeth the words of <hi>Iſaiah,</hi> and of <hi>Nahum,</hi> where it is thus written: <hi>How beautifull are the</hi> Feete <hi>of them that preach the Goſpell of</hi> Peace, <hi>and bring glad tidings of good things!</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 10.15.</note> 
+               <hi>Rom.</hi> 10.15. And one of the <hi>Prophets</hi> hath it thus; <hi>Sauiours ſhall come vpon Mount
+<pb n="13" facs="tcp:184140:11"/> Sion, to Iudge the Mount of Eſau, and the Kingdome ſhall be the Lords: Ob.</hi> 21.<note place="margin">Obad. ver. <hi>21.</hi>
+               </note> Al<g ref="char:EOLhyphen"/>ſo, it is written; <hi>We are Ambaſſadors for Chriſt, as though God did beſeech you by vs: we pray you in Christs ſtead,</hi>
+               <note place="margin">2 <hi>Cor.</hi> 5.20. 5. Sub<g ref="char:EOLhyphen"/>iects.</note> 
+               <hi>be yee reconciled to God:</hi> 2 <hi>Cor.</hi> 5.20.</p>
+            <p>As in other <hi>Kingdomes</hi> there is a <hi>King, Lawes,</hi> a <hi>Scepter,</hi> and <hi>Ambaſſa<g ref="char:EOLhyphen"/>dors;</hi> ſo there are alſo <hi>Subiects,</hi> men of all <hi>ſorts</hi> and <hi>ages:</hi> So in this <hi>King<g ref="char:EOLhyphen"/>dome</hi> there are alſo <hi>Subiects,</hi> which are the <hi>Saints, holy Men and Women, pure, cleane, vndefiled, and harmeleſſe ones.</hi> As it is written; <hi>Thy people ſhall be all righ<g ref="char:EOLhyphen"/>teous: Iſ.</hi> 60.21. And in another place;<note place="margin">
+                  <hi>Iſ.</hi> 60.21.</note> 
+               <hi>Looke vpon Sion, the City of our ſolemni<g ref="char:EOLhyphen"/>ties, thine eyes ſhall ſee Ieruſalem a quiet habitation. And the Inhabitants ſhall not ſay,</hi> I am ſicke: <hi>the people that dwelt therein ſhall bee forgiuen their iniquitie:</hi>
+               <note place="margin">
+                  <hi>Iſ.</hi> 33.20.24.</note> 
+               <hi>Iſ.</hi> 33.20.24. Againe, <hi>Who ſhall aſcend into the Hill of the Lord?</hi> And, <hi>Who ſhall ſtand in his holy Place?</hi> The anſwere is; <hi>Hee that hath cleane hands, and a pure heart, who hath not lift vp his ſoule vnto vanitie, nor ſworne deceitfully: Pſal.</hi> 24.3.4. And in another place:<note place="margin">
+                  <hi>Pſal.</hi> 24.3.4.</note> 
+               <hi>Who ſhall dwell with the deuouring Fire? Who ſhall
+<pb n="14" facs="tcp:184140:12"/> dwell with euerlasting burnings?</hi>
+               <note place="margin">
+                  <hi>Iſ.</hi> 33.14.</note> 
+               <hi>Iſ.</hi> 33.14. The anſwere is, <hi>Hee that walketh righteouſly, and ſpeaketh vprightly; hee that deſpiſeth the gaine of oppreſſions, and ſhaketh his hands from holding of bribes, that ſtoppeth his eares from hearing of blood, and ſhutteth his eyes from ſeeing euill,</hi>
+               <note place="margin">
+                  <hi>Ver.</hi> 15.16</note> 
+               <hi>he ſhall dwell on high; <g ref="char:V">Ʋ</g>er.</hi> 15.16. Againe, <hi>The</hi> Saints <hi>of the most high ſhall take the</hi> Kingdome, <hi>and ſhall poſſeſſe the Kingdome for euer and euer:</hi>
+               <note place="margin">
+                  <hi>Dan.</hi> 7.18</note> Dan. 7.18. Alſo, <hi>This yee know, that no Whoremon<g ref="char:EOLhyphen"/>ger, nor vncleane perſon, nor couetous man, who is an Idolater, hath any inheritance in the Kingdome of Christ:</hi>
+               <note place="margin">
+                  <hi>Eph.</hi> 5.5.</note> 
+               <hi>Eph.</hi> 5.5. And in another place, <hi>Be not deceiued; neither Fornicators, nor Idolaters, nor Adulte<g ref="char:EOLhyphen"/>rers, nor Effeminate, nor abuſers of them<g ref="char:EOLhyphen"/>ſelues with mankinde, nor Theeues, nor Couetous, nor Drunkards, nor Reuilers, nor Extortioners, ſhall inherit the King<g ref="char:EOLhyphen"/>dome of God: And of this ſort were euery one of you, but yee are waſhed, but yee are ſanctified, but ye are iuſtified in the Name of the Lord Ieſus, and by the ſpirit of our God:</hi>
+               <note place="margin">1 <hi>Cor.</hi> 6.9, 10, 11.</note> 1 <hi>Cor,</hi> 6.9, 10, 11. And once againe the ſame Apoſtle <hi>giues thanks vnto the Father which hath made vs meete
+<pb n="15" facs="tcp:184140:12"/> to bee partakers of the inheritance of the Saints in Light: And</hi> (being ſo made meete by repentance) <hi>hath deliuered vs from the power of darkneſſe, and hath tranſlated vs into the Kingdom of his deare Sonne: Col.</hi> 1.12, 13. And it is plaine,<note place="margin">
+                  <hi>Col.</hi> 1.12.13.</note> 
+               <hi>that there ſhall in no wiſe enter in (to the new Ieruſalem) any thing that defileth, nei<g ref="char:EOLhyphen"/>ther whatſoeuer worketh abhomination:</hi>
+               <note place="margin">
+                  <hi>Reuel.</hi> 21.27. <hi>Reuel.</hi> 22.14.</note> 
+               <hi>Reuel.</hi> 21.27. <hi>But they that doe Gods commandements, Reuel.</hi> 22.14. That is, <hi>Doe truely beleeue in Chriſt:</hi> ſuch on<g ref="char:EOLhyphen"/>ly haue right to the <hi>Tree of Life.</hi> And they alone may enter throgh the <hi>gates</hi> into the <hi>City: Mat.</hi> 7.21.22.<note place="margin">
+                  <hi>Mat.</hi> 7.21.22.</note> Thus then the <hi>Subiects</hi> of this <hi>Kingdome</hi> are none but <hi>Saints; holy, cleane, pure,</hi> and <hi>vndefi<g ref="char:EOLhyphen"/>led ones:</hi> ſuch as are firſt <hi>waſhed, ſanctifi<g ref="char:EOLhyphen"/>ed,</hi> and <hi>iuſtified:</hi> that is, <hi>Made meete by the waſhing of Regeneration, &amp; the renew<g ref="char:EOLhyphen"/>ing of the holy Ghost,</hi> to be made heyres, and ſo to receiue their <hi>Inheritance</hi> a<g ref="char:EOLhyphen"/>mongſt the <hi>Saints</hi> in <hi>Light: Tit.</hi> 3.5.7.<note place="margin">
+                  <hi>Tit.</hi> 3.5.7. 6. Offi<g ref="char:EOLhyphen"/>cers.</note>
+            </p>
+            <p>Beſides the <hi>King, Scepter, Lawes, Am<g ref="char:EOLhyphen"/>baſſadors,</hi> &amp; <hi>Subiects,</hi> in other <hi>Kingdoms</hi> there are <hi>Officers:</hi> So in this alſo, as it is written; <hi>Thy Officers ſhall be peace:</hi>
+               <note place="margin">
+                  <hi>Iſ.</hi> 60.17.</note> that is, in ſtead of <hi>Officers,</hi> thou ſhalt haue
+<pb n="16" facs="tcp:184140:13"/> 
+               <hi>Peace:</hi> Yea, all the <hi>Subiects</hi> of this <hi>Kingdome</hi> are <hi>Peace-makers:</hi> as it is writen; <hi>Bleſſed are the Peace-makers, for they ſhall bee called the Children of God.</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 5.9.</note> They, and none but they: <hi>Mat.</hi> 5.9. And it is written, <hi>That a little Childe ſhall leade Chriſts Subiects.</hi>
+               <note place="margin">
+                  <hi>Iſ.</hi> 11.6.</note> 
+               <hi>Iſ.</hi> 11.6. <hi>The humbleſt ſhall beare greateſt ſway there:</hi> as it is written, <hi>Whoſoeuer ſhall humble himſelfe as a little childe, the ſame is the greateſt in the Kingdome of heauen; Mat.</hi> 18.4.<note place="margin">
+                  <hi>Mat.</hi> 18.4. <hi>Iſ.</hi> 66.12. 7. Wea<g ref="char:EOLhyphen"/>pons.</note> Yea, God hath promi<g ref="char:EOLhyphen"/>ſed, <hi>To extend Peace like a Riuer to thoſe that dwell in Sion. Iſ.</hi> 66.12.</p>
+            <p>Laſtly, in a <hi>Kingdome</hi> of this world there are <hi>Weapons,</hi> with which the <hi>Subiects</hi> doe fight: So heere are <hi>Wea<g ref="char:EOLhyphen"/>pons</hi> alſo, yea <hi>compleat Armour,</hi> with which theſe <hi>Subiects</hi> doe alſo <hi>fight:</hi> as it is written; <hi>The Weapons of our war<g ref="char:EOLhyphen"/>fare are not carnall, but mightie through God, to the pulling downe of ſtrong Holds:</hi> 2 <hi>Cor.</hi> 10.4.<note place="margin">2 <hi>Cor.</hi> 10.4. <hi>Eph.</hi> 6.11 <hi>
+                     <g ref="char:V">Ʋ</g>er.</hi> 12. <hi>Ver.</hi> 13.</note> And againe, <hi>Put on the whole Armour of God, and ſtand, hauing your loynes girt about with Truth; and hauing on the Breſtplate of Righteouſnes; and your feete ſhod with the Preparation of the Goſpell of Peace: aboue all things,
+<pb n="17" facs="tcp:184140:13"/> taking the Shield of Faith,</hi>
+               <note place="margin">
+                  <hi>Ver.</hi> 14. <hi>Ver.</hi> 15. <hi>Ver.</hi> 16. <hi>Ver.</hi> 17. <hi>Ver.</hi> 18.</note> 
+               <hi>the Helmet of Saluation, and the Sword of the Spirit, which is the Word of God: praying al<g ref="char:EOLhyphen"/>waies, with all prayer and ſupplication in the Spirit: Eph.</hi> 6.11, 12, 13, 14, 15, 16, 17, 18. This is <hi>the Armour of righ<g ref="char:EOLhyphen"/>teouſnes,</hi> which the Saints haue <hi>on the right hand, and on the left:</hi> 2 <hi>Cor.</hi> 6.7.<note place="margin">2 <hi>Cor.</hi> 6.7.</note> 
+               <hi>Onely</hi> the <hi>ſober children of the day doe put on the Breſtplate of Faith and Loue, and for an helmet, the hope of ſaluation:</hi>
+               <note place="margin">1 <hi>Theſ.</hi> 5.8.</note> 1 <hi>The.</hi> 5.8. Thus you haue, as the <hi>titles,</hi> ſo alſo the principall <hi>things</hi> of which this <hi>Kingdome</hi> conſiſteth: As of a <hi>King,</hi> a <hi>Scepter, Lawes, Ambaſſadors, Subiects, Officers, Weapons:</hi> And hauing this briefely ſeene what it is; it follow<g ref="char:EOLhyphen"/>eth, to bee ſhewed where it is: Ac<g ref="char:EOLhyphen"/>cording to that queſtion of the Diſci<g ref="char:EOLhyphen"/>ples; <hi>Where Lord? Luk.</hi> 17.37.<note place="margin">
+                  <hi>Luk.</hi> 17.37.</note>
+            </p>
+            <p>Here ſhall be obſerued firſt, Whe<g ref="char:EOLhyphen"/>ther <hi>on earth,</hi> or, <hi>in heauen?</hi> that is, in <hi>this life,</hi> or, <hi>that to come?</hi> Secondly, ſeeing it is on <hi>Earth, where it is to bee found?</hi> For the firſt, it is affirmed be<g ref="char:EOLhyphen"/>fore, and ſhall be confirmed by teſti<g ref="char:EOLhyphen"/>monies now, that this <hi>Kingdome</hi> is on <hi>Earth:</hi> for ſo it is written; <hi>In the
+<pb n="18" facs="tcp:184140:14"/> daies of theſe Kings ſhall the God of hea<g ref="char:EOLhyphen"/>uen ſet vp a Kingdom which ſhall neuer be deſtroyed:</hi>
+               <note place="margin">
+                  <hi>Dan.</hi> 2.44.</note> Dan. 2.44. And in another place, <hi>Aske of me, and I will giue thee the heathen for thine inheritance: and the vt<g ref="char:EOLhyphen"/>termoſt parts of the earth for thy poſſeſſion; Pſ.</hi> 2.8.<note place="margin">
+                  <hi>Pſ.</hi> 2.8.</note> Alſo, it is written, <hi>We are come to mount Sion: and, we receiuing a King<g ref="char:EOLhyphen"/>dome:</hi> Heb. 12.22.28. Alſo, it is ter<g ref="char:EOLhyphen"/>med,<note place="margin">
+                  <hi>Dan.</hi> 7.27.</note> 
+               <hi>The Kingdome vnder heauen:</hi> Dan. 7.27. And in the <hi>Pſalmes, Great is the Lord, and greatly to be prayſed in the City of our God, in the mountaine of his Holi<g ref="char:EOLhyphen"/>neſſe, beautifull for ſcituation, the ioy of the whole earth is Mount Sion:</hi>
+               <note place="margin">
+                  <hi>Pſ.</hi> 48.1.2.</note> Pſ. 48.1.2. Yea, it is ſaid in the ſame <hi>Pſalme, That Kings ſhall ſee the glory of this Church, or Kingdome; and that with feare &amp; amaze<g ref="char:EOLhyphen"/>ment:</hi>
+               <note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>er.</hi> 4.5.</note> ver. 4.5. Out of all this we may gather many forcible <hi>Arguments,</hi> to proue this truth; that this <hi>Kingdome, City, Houſe,</hi> or <hi>Tabernacle,</hi> is in this <hi>life:</hi> as you haue before in the Scriptures ſcited to that purpoſe in theſe words; <hi>It ſhalbe in the daies of Kings of this world:</hi> alſo, <hi>It ſhall ſtretch to the vttermoſt parts of the earth:</hi> alſo, <hi>We are come to it; not, we ſhall; but, we are:</hi> and, <hi>we receiuing a
+<pb n="19" facs="tcp:184140:14"/> Kingdome:</hi> not, <hi>Seeing we</hi> ſhall <hi>receiue a Kingdome;</hi> but, <hi>Seeing wee</hi> doe <hi>receiue:</hi> alſo, in the ſame Scripture, wee are willed <hi>to hold it faſt:</hi> now there is no need of ſuch an exhortation, if it were of the <hi>life to come,</hi> as al wil eaſily grant. Further, <hi>It is the ioy of the whole earth.</hi> And <hi>Kings ſhall behold it, &amp; paſſe by with feare &amp; amazement.</hi> What ſhall I ſay? Arguments of this ſort are very many in holy Scriptures: yea,<note place="margin">
+                  <hi>Iſ.</hi> 6.5.17. <hi>the</hi> 66. <hi>Reu.</hi> 21. <hi>the</hi> 22. <hi>Pſ.</hi> 16.11. <hi>Mat.</hi> 22.30. <hi>Mat.</hi> 13.43.</note> euen thoſe places which they moſt abuſe to the contrary, do yeeld many plaine argu<g ref="char:EOLhyphen"/>ments to euery impartiall Reader: as, <hi>Iſai.</hi> 65.17. <hi>the</hi> 66. <hi>Reu.</hi> 21. <hi>and</hi> 22. and ſuch like. And let this be obſerued, that where the <hi>holy Ghoſt</hi> ſpeaketh any where of the <hi>life to come,</hi> it is alwaies in <hi>very ſhort ſpeeches,</hi> or <hi>briefe ſentences:</hi> as for example: <hi>Fulnes of ioy; pleaſures at Gods right hand for euermore.</hi> Pſ. 16.11. <hi>We ſhalbe as the Angels in heaue<g ref="char:cmbAbbrStroke">̄</g>, Mat.</hi> 22 30. <hi>We ſhall ſhine as the ſun for euer in the Kingdome of our Father, Mat.</hi> 13.43. <hi>We ſhal haue euerlaſting life.</hi>
+               <note n="(a)" place="margin">
+                  <hi>Mat.</hi> 19.29. <hi>Mar.</hi> 10.30.</note> 
+               <hi>Where Christ is, we ſhal alſo be.</hi>
+               <note n="(b)" place="margin">
+                  <hi>Io.</hi> 14.3.</note> 
+               <hi>We ſhal behold his glo<g ref="char:EOLhyphen"/>rie.</hi>
+               <note n="(c)" place="margin">
+                  <hi>Io.</hi> 17.24. 2 <hi>Cor.</hi> 4.17.</note> 
+               <hi>We ſhal haue a farre more exceeding and eternall waight of glory:</hi> 2. <hi>Cor.</hi> 4.17.
+<pb n="20" facs="tcp:184140:15"/> 
+               <hi>We ſhall appeare with Chriſt in glory:</hi>
+               <note place="margin">
+                  <hi>Col.</hi> 3.4. 1 <hi>Theſ.</hi> 4.17.</note> 
+               <hi>Col.</hi> 3.4. <hi>Wee ſhall bee euer with the Lord:</hi> 1 <hi>Theſ.</hi> 4.17. <hi>It is an inheritance incor<g ref="char:EOLhyphen"/>ruptible and vndefiled, that fadeth not a<g ref="char:EOLhyphen"/>way,</hi>
+               <note place="margin">1 <hi>Pet.</hi> 1.4</note> 
+               <hi>reſerued in heauen for vs:</hi> 1 <hi>Pet.</hi> 1.4. <hi>When he ſhall appeare, we ſhall be like him; for wee ſhall ſee him as hee is:</hi>
+               <note place="margin">1 <hi>Io.</hi> 3.2. 2 <hi>Tim.</hi> 4.8. <hi>Reuel.</hi> 2.10. <hi>Mat.</hi> 5.12.</note> 1. <hi>Io.</hi> 3.2. <hi>We ſhall haue a Crowne of righteouſnes:</hi> 2 <hi>Tim.</hi> 4.8. <hi>A Crowne of life: Reuel.</hi> 2.10. <hi>A great reward in heauen: Mat.</hi> 5.12. Theſe, or ſuch like are all thoſe <hi>phraſes</hi> which are vſed in the Scrip<g ref="char:EOLhyphen"/>tures, to ſet foorth the <hi>life to come</hi> vnto vs: and that <hi>bleſſed condition</hi> there <hi>re<g ref="char:EOLhyphen"/>ſerued</hi> for vs.</p>
+            <p>The Reaſon hereof might be, ey<g ref="char:EOLhyphen"/>ther the <hi>impoſſibilitie,</hi> in regard of the <hi>ſtraightnes</hi> of our <hi>bowels,</hi>
+               <note place="margin">2 <hi>Cor.</hi> 6.12, 13.</note> to conceiue of that <hi>bleſſedneſſe:</hi> 2. <hi>Cor.</hi> 6.12, 13. Or as we ſpeak, our <hi>ſhallow capacitie</hi> in the <hi>comprehenſion</hi> of ſuch an <hi>excellent myſte<g ref="char:EOLhyphen"/>rie:</hi> but it is indeed the <hi>eternall purpoſe</hi> of <hi>God</hi> in hiding theſe <hi>things</hi> (as <hi>ſecrets</hi>) from vs till the <hi>Laſt day:</hi> as theſe Scriptures following may witnes: That of <hi>Paul,</hi> where it is written, <hi>That being caught vp into the third heauen, hee heard vnſpeakable words, which is not
+<pb n="21" facs="tcp:184140:15"/> lawfull for a man to vtter:</hi>
+               <note place="margin">2 <hi>Cor.</hi> 12.2.4.</note> 2 <hi>Cor.</hi> 12.2.4. Alſo, <hi>Now wee are the ſonnes of God: and it doeth not yet appeare what wee ſhall be:</hi> 1 <hi>Io.</hi> 3.2. And it is alſo written,<note place="margin">1 <hi>Io.</hi> 3.2.</note> 
+               <hi>That this incorruptible and vndefiled inhe<g ref="char:EOLhyphen"/>ritance is reſerued for vs in heauen, and ready to be reuealed in the laſt time:</hi>
+               <note place="margin">1 <hi>Pet.</hi> 1.4.5.</note> 1 <hi>Pet.</hi> 1.4, 5. So that this may bee a mani<g ref="char:EOLhyphen"/>feſt note, eyther <hi>ſhort,</hi> or more <hi>large ſpeeches,</hi> to helpe vs to conceiue of the difference betweene <hi>things of this life,</hi> and that which is <hi>to come. Things</hi> of <hi>this life</hi> are alwaies ſpoken in <hi>expreſſe phraſes,</hi> that we may <hi>conceiue,</hi> becauſe we are to ſpeake of them againe to <hi>others:</hi> As it is written; <hi>Eye hath not ſeene, nor eare heard, neyther haue entred into the heart of man, the things which God hath prepared for them that loue him: but God hath reuealed them to vs by his Spi<g ref="char:EOLhyphen"/>rit: Which things we alſo ſpeake:</hi>
+               <note place="margin">1 <hi>Cor.</hi> 2.9, 10, 13.</note> 1 <hi>Cor.</hi> 2.9, 10, 13.</p>
+            <p>And yet further wee may obſerue by certaine <hi>phraſes</hi> &amp; <hi>vſuall</hi> ſpeeches, that the holy Ghoſt hath put a diffe<g ref="char:EOLhyphen"/>rence betweene our eſtate <hi>heere,</hi> and <hi>hereafter:</hi> for ſpeaking of our <hi>eſtate here,</hi> hee ſpeakes of <hi>comming to vs,</hi> and
+<pb n="22" facs="tcp:184140:16"/> ſending to vs, and ſuch like. But ſpea<g ref="char:EOLhyphen"/>king any where of the <hi>life to come,</hi> hee ſpeaketh of <hi>fetching vs to him,</hi> and the like.</p>
+            <p>This is not to bee ſlightly regar<g ref="char:EOLhyphen"/>ded in reading the holy Scriptures: as to inſtance in the places before men<g ref="char:EOLhyphen"/>tioned, which are by ſome abuſed, to <hi>the life to come.</hi> It is written, <hi>The glorie of the Lord is riſen vpon thee:</hi> and, <hi>The Lord ſhall ariſe vpon thee:</hi>
+               <note place="margin">
+                  <hi>Iſ.</hi> 60.1.2.</note> Iſ. 60.1.2. Yea, that whole Chapter is full of ſtrong reaſons to enforce it to be vn<g ref="char:EOLhyphen"/>derſtood of the <hi>eſtate here.</hi> Alſo, where it is written, <hi>For behold I create new hea<g ref="char:EOLhyphen"/>uens, and a new earth, and the former ſhall not bee remembred, nor come into minde: But be you glad, and reioyce for euer, which I recreate: for behold, I recreate Ieruſa<g ref="char:EOLhyphen"/>lem a Reioycing, and her people a Ioy.</hi> Here the holy Ghoſt expoundeth the <hi>New Heauens,</hi> and the <hi>New Earth;</hi> to bee meant of the <hi>New Ieruſalem,</hi> and the <hi>people thereof:</hi> Euen that <hi>new worſhippe</hi> which is now amongſt the <hi>Saints:</hi> and the <hi>new worſhippers</hi> which haue beene, are, and ſhall bee on the earth; as is plaine in the <hi>verſe</hi> next before, to the
+<pb n="23" facs="tcp:184140:16"/> which theſe are added, as a further Illuſtration. In that <hi>verſe</hi> it is written; <hi>That he who bleſſeth himſelfe in the earth, ſhall bleſſe himſelfe in the God of Truth: and hee that ſweareth in the Earth, ſhall ſweare by the God of Truth:</hi> and then is added, <hi>For behold:</hi> as before;<note place="margin">
+                  <hi>Iſ.</hi> 65.16, 17, 18.</note> 
+               <hi>Iſ.</hi> 65.16, 17, 18.</p>
+            <p>So in that of the <hi>Reuelation,</hi> to omit other places, it is written, That <hi>Iohn ſawe a new Heauen, and a newe Earth: And hee ſaw the holy Citie, new Ieruſalem, come downe from God out of heauen; prepared as a Bride, adorned for her Husband: And heard a voice out of Heauen, ſaying; Beholde the Taber<g ref="char:EOLhyphen"/>nacle of GOD is with Men, and hee will dwell with them, and they ſhall bee his people, and GOD himſelfe ſhall bee with them, and bee their GOD:</hi>
+               <note place="margin">
+                  <hi>Reu.</hi> 21.1, 2, 3.</note> 
+               <hi>Reuel.</hi> 21.1, 2, 3.</p>
+            <p>But cleane contrary to theſe, are the <hi>Speeches</hi> which are vſed for the ſtate <hi>after this life:</hi> as, where it is written; <hi>Come yee bleſſed of my Father, inherite the Kingdome prepared for you from the Foundation of the World: Mat.</hi> 25.34.<note place="margin">
+                  <hi>Mat.</hi> 25.34.</note>
+            </p>
+            <pb n="24" facs="tcp:184140:17"/>
+            <p>And againe, <hi>And theſe ſhall go away into euerlasting puniſhment: but the righ<g ref="char:EOLhyphen"/>teous into eternall life:</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 25.46.</note> 
+               <hi>Mat.</hi> 25.46. Al<g ref="char:EOLhyphen"/>ſo, the requeſt of the Thiefe vpon the <hi>Croſſe, Lord remember mee when thou commeſt into thy Kingdome.</hi> And our <hi>Sauiours</hi> louing anſwere; <hi>To day thou ſhalt be with me in Paradiſe: Luk.</hi> 23.42,43.<note place="margin">
+                  <hi>Luk.</hi> 23.42.43.</note> Alſo, <hi>I goe to prepare a Place for you: and if I goe to prepare a place for you, I will come againe, and receiue you to my ſelfe, that where I am, there may yee bee alſo:</hi>
+               <note place="margin">
+                  <hi>Io.</hi> 14.2.3</note> 
+               <hi>Io.</hi> 14.2.3. And againe, in Chriſts moſt comfortable Prayer wee finde it thus written; <hi>Father, I will that they alſo whom thou haſt giuen me, be with mee where I am, that they may behold my glo<g ref="char:EOLhyphen"/>rie which thou haſt giuen me:</hi>
+               <note place="margin">
+                  <hi>Io.</hi> 17.24.</note> 
+               <hi>Io.</hi> 17.24. Alſo our <hi>Sauiours</hi> ſpeech to <hi>Mary Magdalen; Touch me not, for I am not yet aſcended to my Father: But goe to my Brethren, and ſay vnto them; I aſcend to my Father, and your Father; and to my God,</hi>
+               <note place="margin">
+                  <hi>Io.</hi> 20.17.</note> 
+               <hi>and your God: Io.</hi> 20.17. To this we adde that which the Apoſtle men<g ref="char:EOLhyphen"/>tioneth; <hi>That wee which are aliue, and remaine (at the laſt day) ſhall bee caught vp, together with thoſe that were dead in
+<pb n="25" facs="tcp:184140:17"/> Chriſt.</hi> The words ate theſe: <hi>The Lord himſelfe ſhall deſcend from heauen with a ſhout, with the voice of the Archangell, &amp; with the Trumpe of God? and the dead in Chriſt ſhall riſe firſt: then wee which are aliue and remaine, ſhall be caught vp toge<g ref="char:EOLhyphen"/>ther with them in the cloudes, to meete the Lord in the ayre;</hi>
+               <note place="margin">1 <hi>Theſ.</hi> 4.16.17.</note> 
+               <hi>and ſo wee ſhall bee euer with the Lord:</hi> 1 <hi>Theſ.</hi> 4.16, 17.</p>
+            <p>Out of all this may be eaſily gathe<g ref="char:EOLhyphen"/>red, that our <hi>bleſſednes</hi> is not to be en<g ref="char:EOLhyphen"/>ioyed heere <hi>on earth</hi> (as ſome would haue it, the Creature being purged by fire) but it is <hi>aboue,</hi> euen <hi>there,</hi> where <hi>Enoch is;</hi> of whom it is ſaide, <hi>That God tooke him: Gen.</hi> 5.24.<note place="margin">
+                  <hi>Gen.</hi> 5.24.</note> And the Apoſtle ſaith, <hi>That hee was tranſla<g ref="char:EOLhyphen"/>ted, that he ſhould not ſee death; and was not found, becauſe God had tranſlated him. Heb.</hi> 11.5. Alſo wee read of <hi>Eliah,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 11.5.</note> 
+               <hi>That the Lord tooke him vp into heauen by a Whirle-winde,</hi>
+               <note place="margin">2 <hi>King.</hi> 1.11.16.17. <hi>Mar.</hi> 6. <hi>laſt. Luk.</hi> 24.51. <hi>Act.</hi> 1.9, 10, 11.</note> 
+               <hi>and hee was diligently ſearched for by fiftie ſtrong men, but not found:</hi> 2 <hi>King.</hi> 2.1.11.16.17. Adde to this our bleſſed <hi>Redeemers Aſcenti<g ref="char:EOLhyphen"/>on</hi> into <hi>Heauen,</hi> in the preſence of ma<g ref="char:EOLhyphen"/>ny: <hi>Mark.</hi> 16. <hi>vlt. Luk.</hi> 24.51. <hi>Act.</hi> 1.9, 10, 11.</p>
+            <pb n="26" facs="tcp:184140:18"/>
+            <p>Beſides <hi>Stephens</hi> glorious <hi>viſion,</hi> where it is recorded, <hi>That being full of the holy Ghost, hee looked vp ſtedfaſtly into heauen, and ſaw the glory of God, and Ieſus ſtanding on the right hand of God;</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 7.55, 56.</note> 
+               <hi>Act.</hi> 7.55.56. Thus by the <hi>appoſition</hi> of theſe Scriptures, the <hi>expoſition</hi> is cleere, without further labour. They being alwaies as different as <hi>light</hi> and <hi>dark<g ref="char:EOLhyphen"/>neſſe</hi> to all that are not <hi>obſtinate</hi> and <hi>wilfully Ignorant.</hi> The firſt ſpeaking alwaies of <hi>earthly,</hi> the latter of <hi>hea<g ref="char:EOLhyphen"/>uenly</hi> things. The firſt, of <hi>comming to vs,</hi> and being with vs: the latter, <hi>of fetching vs to him:</hi> as you ſee by ex<g ref="char:EOLhyphen"/>preſſe Scriptures, &amp; plaine examples, which it is not poſſible to ouerthrow; no not <hi>Satan</hi> himſelf with all his <hi>wiles,</hi> and <hi>deepneſſe,</hi> is neuer able to deny or turne vpſide downe:<note place="margin">
+                  <hi>Iſ.</hi> 29.16.</note> 
+               <hi>Iſ.</hi> 29.16. This then being cleere and manifeſt, that this <hi>Kingdome, Citie, Houſe, Taberna<g ref="char:EOLhyphen"/>cle,</hi> or <hi>Church,</hi> that hath ſuch glorious things aſcribed, and ſo many pretious promiſes made vnto it, is <hi>here,</hi> euen <hi>in this life.</hi> In the next place it muſt be ſhewed in what place of the <hi>Earth</hi> it is to be found: Here ſhall be obſerued
+<pb n="27" facs="tcp:184140:18"/> three things: Firſt, that it is tyed too, or bounded within <hi>no one Nation,</hi> or <hi>Kingdome</hi> in the <hi>World.</hi> Secondly, that whereſoeuer it is found in any King<g ref="char:EOLhyphen"/>dome, it is <hi>aboue</hi> that <hi>Kingdome</hi> or <hi>Na<g ref="char:EOLhyphen"/>tion.</hi> Thirdly, where the <hi>Saints</hi> are, there it is. For the firſt, That it is <hi>tyed too,</hi> or <hi>bounded within</hi> no <hi>Nation</hi> or <hi>Kingdome,</hi> it is plaine by that it is writ<g ref="char:EOLhyphen"/>ten: <hi>And the Kingdome ſhall not be left to other people, but it ſhall breake in pee<g ref="char:EOLhyphen"/>ces, and conſume all theſe Kingdomes:</hi> Dan. 2.44. And againe,<note place="margin">
+                  <hi>Dan.</hi> 2.44</note> 
+               <hi>His Domini<g ref="char:EOLhyphen"/>on ſhall be from Sea euen to Sea; and from the Riuer euen to the ends of the earth.</hi>
+               <note place="margin">
+                  <hi>Zac.</hi> 9.10.</note> And it is alſo written, that <hi>as the light<g ref="char:EOLhyphen"/>ning, that lightneth out of the one part vn<g ref="char:EOLhyphen"/>der heauen,</hi>
+               <note place="margin">
+                  <hi>Matt.</hi> 24.27. <hi>Luk.</hi> 17.24.</note> 
+               <hi>ſhineth to the other part vnder heauen: So ſhall alſo the Sonne of Man be in his Day.</hi> That is, (as it is moſt plaine, if ye conſider the <hi>former words,</hi> and vpon what <hi>occaſion</hi> this <hi>ſimilitude</hi> is vſed) <hi>Chriſts Kingdome,</hi> is not <hi>heere,</hi> and <hi>no where elſe;</hi> nor <hi>there,</hi> &amp; <hi>no where elſe;</hi> as falſe Prophets would haue it: but it ſhall bee in <hi>diuers parts</hi> of the <hi>earth, at one</hi> and <hi>the ſame time,</hi> in <hi>one</hi> and the <hi>ſame manner:</hi> Euen as
+<pb n="28" facs="tcp:184140:19"/> 
+               <hi>lightning</hi> doth <hi>diſprerſe</hi> it ſelfe, and <hi>ſhew</hi> it ſelfe <hi>alike</hi> in <hi>diuers places,</hi> at <hi>one</hi> and the <hi>ſame inſtant.</hi>
+            </p>
+            <p>And thus this point is plaine, that it is not <hi>bounded</hi> within any <hi>Nation,</hi> or <hi>limitted</hi> vnto any <hi>one People</hi> or <hi>Kingdom.</hi> So that no man can ſay it is in this <hi>Company,</hi> and <hi>no where elſe,</hi> as diuers falſe Prophets haue aſſumed, and da<g ref="char:EOLhyphen"/>red to maintaine; and yet at this day doe not ſticke conſtantly to affirme, contrary to that, where it is written; <hi>The Kingdome of God commeth not with obſeruation, or outward ſhew; neither ſhall men ſay,</hi>
+               <note place="margin">
+                  <hi>Luk.</hi> 17.20.</note> Lo here, <hi>or,</hi> lo there: <hi>Luk.</hi> 17.20.</p>
+            <p>Now that it is <hi>aboue</hi> euery <hi>Nation,</hi> and <hi>Kingdom</hi> where it is: according to that <hi>bleſſing</hi> to the <hi>obedient; He ſhall be aboue onely,</hi>
+               <note place="margin">
+                  <hi>Deut.</hi> 28.13. <hi>Iſ.</hi> 49.23.</note> 
+               <hi>and not beneath:</hi> Deut. 18.13. This is playne by the excellent and glorious <hi>ſcituation</hi> thereof: as it is written, <hi>Then the Moone ſhall be confoun<g ref="char:EOLhyphen"/>ded, and the Sunne aſhamed, when the Lord of Hoſts ſhall reigne in Mount Sion, and in Ieruſalem, and before his ancients gloriouſly:</hi>
+               <note place="margin">
+                  <hi>Iſ.</hi> 24.23.</note> Iſ. 24.23. And againe, <hi>Sauiours ſhall come vpon Mount Sion, to
+<pb n="29" facs="tcp:184140:19"/> iudge the Mount of</hi> Eſau; <hi>and the King<g ref="char:EOLhyphen"/>dome ſhall be the Lords:</hi> Obad. 21.<note place="margin">Obad. Ver. <hi>21.</hi>
+               </note> Al<g ref="char:EOLhyphen"/>ſo, <hi>It ſhall come to paſſe in the laſt dayes, that the Mountaines of the Lords Houſe ſhall be eſtabliſhed in the top of the Moun<g ref="char:EOLhyphen"/>taines, and ſhall be exalted aboue the hills; and all Nations ſhall flow vnto it. And many people ſhall go and ſay; Come yee, &amp; let vs goe vp to the Mountaine of the Lord, to the houſe of the God of</hi> Iacob, <hi>&amp; he will teach vs of his wayes, and we will walke in his paths. For out of Sion ſtall goe foorth the Lawe,</hi>
+               <note place="margin">
+                  <hi>Iſ.</hi> 2.2.3.</note> 
+               <hi>and the word of the Lord from Ieruſalem:</hi> Iſ. 2.2, 3. This <hi>Mountaine</hi> was <hi>prefigured</hi> by that into which <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> aſcended: <hi>Exo.</hi> 19. <hi>and</hi> 24.<note place="margin">
+                  <hi>Exod.</hi> 19. <hi>and</hi> 24.</note> And that, that <hi>Mountaine</hi> was a <hi>figure</hi> of this wee now <hi>enioy,</hi> is manifeſt by that, where it is written; <hi>The Hill of God is an high Hill: why leape ye, ye high Hills? this is the Hill which God deſireth to dwell in; yea the Lord will dwell in it for euer. The Chariots of God, are twentie thouſand thouſands of Angels; the Lord among them, as in Sinai in the holy place:</hi>
+               <note place="margin">
+                  <hi>Pſ.</hi> 68.15 16, 17, 18</note> Pſ. 68.15, 16, 17, 18. Alſo, <hi>Who ſhall dwell with the deuouring fire? Who ſhall dwell with euerlaſting burnings?</hi> The anſwer
+<pb n="30" facs="tcp:184140:20"/> is, <hi>He that walketh righteouſly, hee ſhall dwell on high, his place of defence ſhall bee the munition of Rocks:</hi> Euen on <hi>high,</hi> on that <hi>Mountaine,</hi>
+               <note place="margin">
+                  <hi>Iſ.</hi> 33.14.15, 16. <hi>Exo.</hi> 24.16, 17.</note> where the <hi>ſight</hi> of the <hi>Lord</hi> is like <hi>deuouring fire. Iſ.</hi> 33.14, 15, 16. <hi>Exod.</hi> 24.16, 17. Adde to this; <hi>We are not come to the Mount that might bee touched: But wee are come to Mount Sion, to the Citie of the liuing God; and we receiuing a Kingdome which cannot be mooued, let vs hold fast: For our God is a conſuming fire:</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 12.18, 22, 28, 29.</note> 
+               <hi>Heb.</hi> 12.18, 22, 28, 29.</p>
+            <p>This was yet further made manifeſt by that <hi>Mountaine</hi> where <hi>Chriſts</hi> moſt glorious <hi>Transfiguration</hi> was ſeene by <hi>Peter, Iames,</hi> and <hi>Iohn,</hi> where hee tal<g ref="char:EOLhyphen"/>ked with <hi>Moſes</hi> and <hi>Elias;</hi> at what <hi>Time</hi> his <hi>Face</hi> did <hi>ſhine</hi> as the <hi>Sunne,</hi> and his <hi>Rayment</hi> was as <hi>white</hi> as the <hi>light;</hi> yea, <hi>exceeding white,</hi> and <hi>ſhining</hi> ſo as no <hi>Fuller</hi> on earth could white them: at what time alſo, a bright <hi>Cloude</hi> ouer-ſhadowed; and a voyce out of the <hi>Cloude</hi> was heard, which ſaid,<note place="margin">
+                  <hi>Mat.</hi> 17.1. <hi>Mar.</hi> 9.2. <hi>Luk.</hi> 9.28</note> 
+               <hi>This is my beloued Sonne, in whom I am well pleaſed, heare ye him: Mat.</hi> 17.1. <hi>Mar.</hi> 9.2. <hi>Luk.</hi> 9.28. This is a<g ref="char:EOLhyphen"/>gaine
+<pb n="31" facs="tcp:184140:20"/> remembred, where it is thus written: <hi>We haue not followed cungingly deuiſed fables, when we made knowne vn<g ref="char:EOLhyphen"/>to you the power and comming of the Lord Ieſus Chriſt; but were eye-witneſſes of his Maieſtie; For he receiued from God the Father, honour and glory, when there came ſuch a voyce vnto him from that excellent Glory: This is my beloued Sonne in whom I am well pleaſed. And this voyce which came from heauen, we heard when we were with him in the holy Mount:</hi>
+               <note place="margin">2 <hi>Pet.</hi> 1.16, 17, 18</note> 2 <hi>Pet.</hi> 1.16, 17, 18. This Scripture doth no<g ref="char:EOLhyphen"/>tably prooue this <hi>poynt,</hi> and cleere the <hi>Transfiguration</hi> to bee a repre<g ref="char:EOLhyphen"/>ſentation of the glorious <hi>eſtate</hi> of the <hi>Church heere,</hi> not <hi>hereafter:</hi> And that by this eſpeciall circumſtance; <hi>That he receiued from GOD the Fa<g ref="char:EOLhyphen"/>ther, honour, and glory, from that excel<g ref="char:EOLhyphen"/>lent Glorie.</hi>
+            </p>
+            <p>Now what hee <hi>receiued,</hi> hee muſt <hi>at the last redeliuer;</hi> as hath beene be<g ref="char:EOLhyphen"/>fore prooued: for hee is ſayde to re<g ref="char:EOLhyphen"/>ceiue it onely for the <hi>finiſhing</hi> of the great <hi>worke</hi> of <hi>Mans Redemption:</hi> which when it is accompliſhed, <hi>Then commeth the Ende: when hee ſhall
+<pb n="32" facs="tcp:184140:21"/> deliuer vp the Kingdome which hee hath receiued, to God, euen the Father; that God may be all in all.</hi> And obſerue fur<g ref="char:EOLhyphen"/>ther, that <hi>Peter</hi> had before <hi>preached</hi> of this glorious <hi>Kingdom of Chriſt;</hi> and he vſeth this but for the <hi>confirmation</hi> of the <hi>Faith</hi> of thoſe to whome hee had <hi>preached,</hi> in that hee was with others an <hi>eye</hi> and <hi>eare-witneſſe</hi> (as we ſpeake) of the excellent <hi>eſtate, prefigured</hi> in that notable and glorious <hi>Transfigu<g ref="char:EOLhyphen"/>ration:</hi> for he both ſaw his <hi>glory,</hi> which hee <hi>receiued</hi> from that <hi>excellent glory;</hi> and alſo hee heard the <hi>voice</hi> that pro<g ref="char:EOLhyphen"/>nounced him that <hi>bleſſed One,</hi> or, that <hi>King, Priest,</hi> and <hi>Prophet,</hi> which was Prophecied of long before; that ſuch a <hi>Prophet</hi> ſhould bee <hi>rayſed vp,</hi> and ſuch a <hi>King</hi> ſhould <hi>be ſet vpon Mount</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; yea, ſuch a <hi>Priest</hi> ſhould <hi>Offer a Sacrifice</hi> that ſhould <hi>Iuſtifie many:</hi>
+               <note place="margin">
+                  <hi>Iſ.</hi> 53.10.11.</note> Iſ. 53.10, 11. euen as many as were <hi>or<g ref="char:EOLhyphen"/>dayned</hi> to <hi>eternall life:</hi> as it is written, <hi>The Lord thy God will rayſe vp vnto thee a Prophet, from the middeſt of thee, of thy brethren, like vnto me, vnto him ſhall yee hearken: According to all that thou deſi<g ref="char:EOLhyphen"/>reast of the Lord thy God in Horeb, in the
+<pb n="33" facs="tcp:184140:21"/> Day of the Aſſembly, ſaying; Let me not heare againe the voyce of the Lord my God, neyther let me ſee this great fire any more, that I dye not:</hi> Deut. 18.15.<note place="margin">
+                  <hi>Deut.</hi> 18.15.</note> Here is his <hi>Propheticall, Kingly,</hi> and <hi>Prieſtly Office,</hi> prophecied of cleerely: as it is applyed by <hi>Peter</hi> in that excellent <hi>Sermon</hi> of his, where wee finde it thus written: Hauing ſpoken before ex<g ref="char:EOLhyphen"/>preſſely of <hi>Ieſus Christ,</hi> hee addeth theſe words: <hi>For Moſes truely ſayde vnto the Fathers: A Prophet ſhall the Lord your GOD rayſe vp vnto you of your brethren, like vnto me, him ſhall yee heare in all things whatſoeuer hee ſhal ſay vnto you. And it ſhall come to paſſe, that euery ſoule which will not heare that Prophet ſhall be deſtroyed from among the people. Yea, and all the Prophets from</hi> Samuel, <hi>and thoſe that follow after, as many as haue ſpoken, haue likewiſe fore-tolde of theſe dayes:</hi> Act. 3.22, 23, 24. Alſo,<note place="margin">
+                  <hi>Act.</hi> 3.22, 23, 24.</note> to conclude this poynt; the very words of the voyce doe playnely note vnto vs theſe three; where it is written, <hi>This is my beloued Sonne, in whom I am well pleaſed, heare yee him. This is my beloued Sonne:</hi> There is his <hi>right</hi> of be<g ref="char:EOLhyphen"/>ing
+<pb n="34" facs="tcp:184140:22"/> 
+               <hi>King, in whome I am well pleaſed.</hi> That <hi>notes</hi> his <hi>Prieſthood; Heare ye him.</hi> This doth manifeſt him to bee that <hi>Prophet,</hi> which <hi>God</hi> hath <hi>raiſed vp.</hi> This Argument is fully handled, and nota<g ref="char:EOLhyphen"/>bly diſcouered in that moſt excellent Epiſtle to the <hi>Hebrewes.</hi> And thus it is manifeſt, that it is not <hi>tyed</hi> too, or <hi>bounded</hi> within any <hi>Nation</hi> or <hi>Kingdom</hi> of this <hi>World:</hi> but it is in <hi>diuers of them,</hi> at <hi>one,</hi> and the <hi>ſame time;</hi> in <hi>one,</hi> and the <hi>ſame manner.</hi> And whereſoeuer it is, it hath the <hi>preheminence,</hi> or is <hi>aboue</hi> that <hi>Kingdome</hi> or <hi>Nation;</hi> as is plaine by the Scriptures which are mentio<g ref="char:EOLhyphen"/>ned before, which Scriptures alſo you ſee doe concerne the <hi>Eſtate</hi> of the <hi>Church heere,</hi> as hath beene alſo pro<g ref="char:EOLhyphen"/>ued: So that it is <hi>ſcituate</hi> vpon a glo<g ref="char:EOLhyphen"/>rious <hi>holy Mountaine,</hi> vpon an excee<g ref="char:EOLhyphen"/>ding <hi>high Hill;</hi> which is aboue all <hi>earthly Mountaines,</hi> all <hi>earthly Hills.</hi> Now followeth to bee ſhewed how wee may certainely, or infalliblely know where this <hi>Mountaine,</hi> and ſo conſequently this <hi>Houſe, Tabernacle, Church, City,</hi> or <hi>Kingdome</hi> is? For full <hi>ſatisfaction</hi> in this, let vs call to minde
+<pb n="35" facs="tcp:184140:22"/> the Diſciples <hi>queſtion,</hi> before ſpoken of; &amp; the <hi>anſwere</hi> to the ſame, by him that could beſt ſatisfie the <hi>doubtfull</hi> in a point of ſo <hi>great waight.</hi> The queſti<g ref="char:EOLhyphen"/>on was moued vpo<g ref="char:cmbAbbrStroke">̄</g> occaſion of a <hi>large ſpeech,</hi> which our <hi>Sauiour</hi> had made co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>cerning this <hi>Kingdom.</hi>
+               <note place="margin">
+                  <hi>Luk.</hi> 17.37.</note> And the words of the queſtion are theſe; <hi>Where Lord?</hi> As if they ſhould haue ſaid: Thou haſt ſpoken <hi>often</hi> &amp; <hi>largely</hi> of a <hi>Kingdom:</hi> &amp; now thou haſt alſo <hi>ſhewed, <hi>y<hi rend="sup">e</hi>
+                  </hi>
+               </hi> men ſhall not be able to ſay; <hi>See, here it is; or be<g ref="char:EOLhyphen"/>hold, there it is.</hi> Where is it then <hi>Lord,</hi> or how may <hi>thy children</hi> finde it?<note place="margin">
+                  <hi>Mat.</hi> 24.28. <hi>Luk.</hi> 17.37.</note> The anſwere is; <hi>Whereſoeuer the Carkeiſe or body is, there, or thither will the Eagles be gathered together.</hi> As if he ſhould haue ſaid in moe words thus: Would you know <hi>where</hi> my <hi>Kingdom</hi> is? or where it may be found? Anſwere your <hi>ſelues</hi> by your own <hi>experience:</hi> Did you euer ſee <hi>Eagles</hi> gathered together, without a <hi>dead body</hi> or <hi>carkeiſe?</hi> If <hi>no,</hi> then may you alſo <hi>conclude<g ref="char:punc">▪</g>
+               </hi> that whereſoeuer <hi>true Beleeuers are, there is Chriſtes Kingdome.</hi> According to that where it is written, <hi>Whereſoeuer two or three are gathered together in my Name,
+<pb n="36" facs="tcp:184140:23"/> there am I in the midst of them:</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 18.20.</note> Mat. 18.23. or, <hi>There is my Kingdome:</hi> there is the <hi>Church:</hi> the <hi>Citie:</hi> the <hi>Houſe:</hi> the <hi>Tabernacle,</hi> which I haue ſet vp: Euen <hi>there</hi> whereſoeuer <hi>two</hi> or <hi>three</hi> are <hi>ga<g ref="char:EOLhyphen"/>thered</hi> or ioyned <hi>together</hi> in the <hi>ſame minde, walking</hi> in the <hi>ſame way, confeſſing</hi> the <hi>ſame things, doing</hi> the <hi>ſame duties</hi> which I haue <hi>commanded.</hi> There, and <hi>and no where elſe</hi> is my <hi>Kingdome;</hi> with <hi>them,</hi> and <hi>none but ſuch</hi> as they are doe <hi>I familiarly conuerſe: This,</hi> and <hi>none</hi> but this is my <hi>houſe.</hi> This is that <hi>Spirituall Tabernacle,</hi> not made with hands: there is that <hi>Citie</hi> of which ſo glorious things are ſpoken.</p>
+            <p>For, as it is naturall for <hi>Eagles</hi> to ceaze or prey on <hi>dead bodies:</hi> So it is as <hi>naturall</hi> for <hi>beleeuers</hi> to ceaze or prey on <hi>Chriſts Body:</hi> and as nothing will <hi>draw Eagles together,</hi> but a <hi>Car<g ref="char:EOLhyphen"/>keiſe:</hi> So there is nothing will <hi>knit men together</hi> in true <hi>friendſhip,</hi> and <hi>fa<g ref="char:EOLhyphen"/>miliaritie,</hi> but the <hi>Spirit of Chriſt.</hi>
+            </p>
+            <p>The <hi>Truth</hi> of this moſt apt and ex<g ref="char:EOLhyphen"/>cellent <hi>Similitude</hi> might bee ſhewed out of many <hi>Scriptures:</hi> but let this be carefully obſerued: That by the <hi>Body</hi>
+               <pb n="37" facs="tcp:184140:23"/> or <hi>Carkeiſe</hi> is liuely repreſented vnto vs, <hi>the crucified fleſh of Christ, and his blood powred out: on which beleeuers doe onely feede.</hi> This is done in the <hi>true preaching</hi> of the <hi>Word,</hi> and the <hi>right ad<g ref="char:EOLhyphen"/>miniſtration</hi> of the <hi>Lords Supper.</hi> Both theſe are playne where it is written; <hi>O yee fooliſh Galatians, who hath bewit<g ref="char:EOLhyphen"/>ched you, that you ſhould not obey the truth, before whoſe eyes Ieſus Chriſt hath beene euidently ſet foorth, crucified amongſt you? Gal.</hi> 3.1. Againe,<note place="margin">
+                  <hi>Gal.</hi> 3.1. 1 <hi>Cor.</hi> 1.23.</note> 
+               <hi>Wee preach Christ crucified:</hi> 1 <hi>Cor.</hi> 1.23. There is the <hi>Carkeiſe</hi> or <hi>Body</hi> in <hi>true preaching.</hi> Alſo it is written, <hi>The Cup of bleſſing, which we bleſſe, is it not the Communion of the blood of Chriſt? The Bread which wee breake, is it not the Communion of the Bo<g ref="char:EOLhyphen"/>die of Christ? For we being many, are one Bread, and one Body: for we are all par<g ref="char:EOLhyphen"/>takers of that one Bread:</hi> 1 <hi>Cor.</hi> 10.16, 17.<note place="margin">1 <hi>Cor.</hi> 10.16.17.</note> Here is alſo the <hi>Carkeiſe</hi> or <hi>Body</hi> in the right vſe of the <hi>Lords Supper.</hi> To both theſe adde that, where it is written; <hi>Except yee eate the fleſh of the Sonne of Man, and drinke his blood, yee haue no life in you: Io.</hi> 6.53.<note place="margin">
+                  <hi>Io.</hi> 6.35.</note>
+            </p>
+            <p>Thus hauing done with the <hi>Body</hi>
+               <pb n="38" facs="tcp:184140:24"/> or <hi>Carkeiſe.</hi> That the <hi>Eagles</hi> alſo doe notably repreſent <hi>Beleeuers,</hi> is playne by many things, wherin the <hi>holy Ghoſt</hi> hath made the <hi>Compariſon.</hi> In the firſt place, <hi>Eagles doe mount on high;</hi> as God ſaith to <hi>Iob:</hi>
+               <note place="margin">
+                  <hi>Iob.</hi> 39.27.</note> 
+               <hi>Doth the Eagle mount vp at thy command, &amp; make her neſt on high?</hi> So likewiſe <hi>Beleeuers</hi> are ſayd <hi>to mount vp with wings:</hi>
+               <note place="margin">
+                  <hi>Iſ.</hi> 40.31.</note> as it is written; <hi>They ſhall mount vp with wings as Eagles.</hi>
+            </p>
+            <p>Secondly, <hi>Eagles</hi> doe <hi>dwell</hi> &amp; <hi>abide</hi> on the <hi>Rocke</hi> and <hi>ſtrong Place:</hi>
+               <note place="margin">
+                  <hi>Iob.</hi> 39.28.</note> 
+               <hi>Iob.</hi> 39.28. So <hi>beleeuers</hi> are ſayd to dwell <hi>on high,</hi> euen on <hi>ſtrong defenced Rocks:</hi> as it is written; <hi>Hee that walketh righte<g ref="char:EOLhyphen"/>ouſly, &amp; ſpeaketh vprightly; He ſhall dwell on high, his place of Defence ſhall be the Munition of Rocks:</hi>
+               <note place="margin">
+                  <hi>Iſ.</hi> 33.15, 16. <hi>Pſal.</hi> 103.5.</note> 
+               <hi>Iſ.</hi> 33.15.16.</p>
+            <p>Thirdly, <hi>Eagles do renew their ſtrength, Pſa.</hi> 113.5. So <hi>Beleeuers renew their ſtrength:</hi> as is written; <hi>They that wayte vpon the Lord ſhall renew their ſtrength: Iſa.</hi> 40.31.<note place="margin">
+                  <hi>Iſ.</hi> 40.31. <hi>Iob.</hi> 39.29.</note> Fourthly, <hi>Eagles doe ſee a farre off: Iob.</hi> 39.29. So <hi>beleeuers</hi> are ſaid <hi>to ſee a farre off:</hi> as it is written: <hi>Where there is mention made of many be<g ref="char:EOLhyphen"/>leeuers:</hi> it is concluded thus of them: <hi>Theſe all dyed in Faith, not hauing recei<g ref="char:EOLhyphen"/>ued
+<pb n="39" facs="tcp:184140:24"/> the Promiſes;</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 11.13. <hi>Iob.</hi> 39.30</note> 
+               <hi>but hauing ſeene them a farre off, and were perſwaded of them.</hi>
+            </p>
+            <p>Fifthly, <hi>Eagles do ſucke vp blood: Iob.</hi> 39.30. So <hi>Beleeuers,</hi> as it is written. <hi>Who ſo eateth my fleſh, and drinketh my blood, hath eternall life: and I will rayſe him vp at the laſt day: Io.</hi> 6.54. Laſtly,<note place="margin">
+                  <hi>Io.</hi> 6.54.</note> 
+               <hi>where the ſlayne are,</hi> or where the <hi>car<g ref="char:EOLhyphen"/>keiſe</hi> or <hi>dead body</hi> is, <hi>there is hee:</hi>
+               <note place="margin">
+                  <hi>Iob.</hi> 39.30</note> 
+               <hi>Iob.</hi> 39.30. So <hi>beleeuers</hi> are euer with <hi>Chriſt:</hi> for it is onely <hi>the Spirit of Chriſt</hi> that <hi>brings them together,</hi> or doth <hi>cheriſh them aſunder.</hi> Thus you haue briefely ſeene the truth of this apt and moſt excellent <hi>Similitude,</hi> how liuely and plainely it <hi>diſcouereth</hi> this <hi>great miſtery;</hi> which ſhalbe thus ſummed, &amp; ſo con<g ref="char:EOLhyphen"/>cluded; <hi>Eagles mount on high: Beleeuers do the like. Eagles make their neſts on ſafe places: Beleeuers are alſo ſafe. Eagles re<g ref="char:EOLhyphen"/>new their youth: Beleeuers doe renew their ſtrength. Eagles ſee a farre off: Beleeuers do no leſſe. Eagles ſuck vp blood: Beleeuers doe the ſame. Eagles are neuer gathered without a carkeiſe: nor Beleuers without the Spirit of Chriſt.</hi> But it may be, <hi>ſome</hi> of my <hi>Countreymen</hi> may ſay; <hi>How ſhall we know it to be in England?</hi>
+            </p>
+            <pb n="41" facs="tcp:184140:25"/>
+            <p>Let ſuch anſwer themſelues <hi>by this:</hi> It is prooued, that <hi>where beleeuers are,</hi> there it is: Now if <hi>thou</hi> then be a <hi>Be<g ref="char:EOLhyphen"/>leeuer,</hi> and doſt know <hi>another as well as thy ſelfe,</hi> thou mayſt then <hi>ſafely</hi> con<g ref="char:EOLhyphen"/>clude, that it is in <hi>England.</hi> And if thou ſay further, <hi>How ſhall I know others?</hi> I anſwere, Labour <hi>first</hi> to be <hi>certaine</hi> of thine owne <hi>bleſſednes; Get</hi> aſſurance <hi>that thou thy ſelfe art</hi> in Chriſt: and when this is done, I doubt not to ſay thou ſhalt know <hi>others</hi> alſo: yea <hi>ma<g ref="char:EOLhyphen"/>ny others</hi> in <hi>England,</hi> to thy great <hi>com<g ref="char:EOLhyphen"/>fort:</hi> as it is written; <hi>Since yee ſeeke a proofe of Chriſt ſpeaking in me: Examine your ſelues, whether yee bee in the Faith, prooue your owne ſelues. Know yee not your owne ſelues, how that Ieſus Christ is in you, except yee be reprobates? But I truſt yee ſhall know that we are not reprobates:</hi> 2 <hi>Cor.</hi> 13.<note place="margin">2 <hi>Cor.</hi> 13.3, 5, 6.</note>3, 5, 6. As if hee ſhould haue ſaid, The <hi>onely way</hi> to know that <hi>Wee,</hi> (that is, <hi>the true Miniſters of Chriſt</hi>) are <hi>in Chriſt,</hi> is, by the <hi>knowledge of your ſelues</hi> to be <hi>in Chriſt:</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 7.2, 3, 4, 5. 1 <hi>Cor.</hi> 2.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5, 16.</note> Giuing vs to vnderſtand thereby, that <hi>none</hi> can <hi>truely know</hi> a <hi>Childe</hi> of <hi>God,</hi> but he that is <hi>in truth</hi> the <hi>Childe</hi> of <hi>God</hi> himſelfe:
+<pb n="42" facs="tcp:184140:25"/> 
+               <hi>Mat.</hi> 7.2, 3, 4, 5. 1 <hi>Cor.</hi> 2.15, 16.</p>
+            <p>But ſome may ſay further; I heare one cry out for want of <hi>Diſcipline;</hi> o<g ref="char:EOLhyphen"/>thers for <hi>Order;</hi> ſome for <hi>Chriſts Offi<g ref="char:EOLhyphen"/>cers:</hi> one ſaith, <hi>Here is Chriſt;</hi> another, <hi>There is Chriſt:</hi> Let ſuch an <hi>one</hi> againe ſatisfie himſelf, that <hi>Chriſt</hi> hath made it a <hi>marke</hi> of a <hi>Seducing ſpirit,</hi> to <hi>drawe Diſciples</hi> after him. Now wee haue learned to haue <hi>reſpect to all Gods com<g ref="char:EOLhyphen"/>mandements, Pſ.</hi> 119.6:<note place="margin">
+                  <hi>Pſ.</hi> 119.6.</note> and amongſt the reſt, this is <hi>one; To beware of falſe Prophets: Mat.</hi> 7.15.<note place="margin">
+                  <hi>Mat.</hi> 7.15, 16.</note> This our moſt bleſſed Redeemer, was carefull to preſſe vpon vs his Redeemed ones: where he ſaith, <hi>If any man ſhall ſay vnto you, Lo, heere is Chriſt, or there, beleeue it not: for there ſhall ariſe falſe Chriſts, and falſe Prophets, and ſhall ſhew great ſignes &amp; wonders, inſomuch that if it were poſſible, they will deceiue the very Elect:</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 24.24.</note> 
+               <hi>Mat.</hi> 24.24. This is againe repeated, to note the <hi>certaine</hi> and <hi>neceſſary vſe</hi> of ſuch <hi>aduiſe: Behold, I haue tolde you be<g ref="char:EOLhyphen"/>fore; wherefore if any ſhall ſay vnto you, Behold, he is in the Deſart, goe not foorth: Behold, hee is in the ſecret chambers, be<g ref="char:EOLhyphen"/>leeue it not:</hi> Ver. 25.26.<note place="margin">
+                  <hi>Ver.</hi> 25.26.</note> And the
+<pb n="42" facs="tcp:184140:26"/> holy Ghoſt warneth vs of <hi>times, wher<g ref="char:EOLhyphen"/>in ſome ſhall giue heede to ſeducing ſpirits:</hi>
+               <note place="margin">1 <hi>Tim.</hi> 4.1.</note> 1 <hi>Tim.</hi> 4.1. As alſo, <hi>That there ſhall be falſe Teachers</hi> (euen among the <hi>Saints) That ſhall priuily bring in damnable Here<g ref="char:EOLhyphen"/>ſies: And many ſhall follow their Perni<g ref="char:EOLhyphen"/>tious waies; by reaſon of whome, the way of truth ſhalbe euill ſpoken of. And through Couetouſnes, they ſhal with feighned words make marchandiſe of the Saints:</hi>
+               <note place="margin">2 <hi>Pet.</hi> 2.1, 2, 3.</note> 2 <hi>Pet.</hi> 2.1, 2, 3. And we are <hi>willed,</hi> nay, <hi>com<g ref="char:EOLhyphen"/>manded,</hi> not <hi>to beletue euery Spirit; but to try the Spirits, whether they are of God, becauſe many falſe Prophets are gone out into the World:</hi>
+               <note place="margin">1 <hi>Io.</hi> 4.1.</note> 1 <hi>Io.</hi> 4.1.</p>
+            <p>Therefore if thou be a <hi>Saint</hi> or <hi>true beleeuer,</hi> abide in thy Place; and bee not <hi>drawne</hi> to any ſuch <hi>Places, Compa<g ref="char:EOLhyphen"/>nies,</hi> or <hi>Conſtitutions:</hi> but attend vpon the <hi>Word,</hi> and drawe others thereun<g ref="char:EOLhyphen"/>to; that as <hi>others</hi> haue beene exam<g ref="char:EOLhyphen"/>ples to thee; ſo <hi>thou</hi> mayſt alſo be to <hi>others.</hi> Labour for the <hi>Peace</hi> of the <hi>Land, Citie,</hi> or <hi>Place,</hi> where thou dwelleſt,<note place="margin">
+                  <hi>Ier.</hi> 29.7.</note> and doſt liue: <hi>Ier.</hi> 29.7. Get thine <hi>owne ſoule</hi> within the com<g ref="char:EOLhyphen"/>paſſe of <hi>Chriſts Diſcipline,</hi> and thine owne <hi>Family</hi> into <hi>order.</hi> And know,
+<pb n="43" facs="tcp:184140:26"/> that if thou muſt needes graunt that the <hi>Church of God</hi> is in <hi>England;</hi> thou muſt alſo of neceſsitie graunt that <hi>Chriſts Gouernment</hi> is here alſo, vnleſſe thou wilt ſeperate him from that his Gouernment: <hi>Mat.</hi> 19.6.<note place="margin">
+                  <hi>Mat.</hi> 19.6</note> For hee himſelfe hath ſayd, <hi>That his Gouern<g ref="char:EOLhyphen"/>ment is vpon his ſhoulder: Iſ.</hi> 9.6.<note place="margin">
+                  <hi>Iſ.</hi> 9.6.</note> But ſome may further obiect: This <hi>Go<g ref="char:EOLhyphen"/>uernment</hi> is not <hi>viſible;</hi> or, I cannot ſee this that you affirme. Let ſuch get <hi>Eye-ſalue,</hi> and deſire God to open the <hi>Miſtery</hi> of it: For indeed the <hi>Church</hi> is glorious; but <hi>to whome?</hi> To thoſe onely <hi>that are within it:</hi> as it is written,<note place="margin">
+                  <hi>Pſ.</hi> 45.13.</note> 
+               <hi>The Kings daughter is all glorious within: Pſa.</hi> 45.13.</p>
+            <p>
+               <hi>None</hi> can ſee the <hi>Light</hi> of this <hi>Candle,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 5.15 <hi>Lu.</hi> 11.33 <hi>Io.</hi> 3.3.</note> but ſuch as are <hi>within the Houſe: Mat.</hi> 5.15. <hi>Lu</hi> 11.33. And <hi>Ex<g ref="char:EOLhyphen"/>cept a man be borne againe he cannot ſee the Kingdome of God: Io.</hi> 3.3. So that it is no <hi>wonder</hi> ſeeing thou ſeeſt not the <hi>Church it ſelfe</hi> that thou ſeeſt not the <hi>beautie</hi> and <hi>comelineſſe</hi> thereof. As it is no <hi>wonder,</hi> that a man cannot iuſtly finde fault with the <hi>Building,</hi> that ſees not the <hi>Houſe:</hi> or vvith the
+<pb n="44" facs="tcp:184140:27"/> 
+               <hi>Order,</hi> that ſees not the <hi>Army it ſelfe.</hi> And I muſt needes ſay, that if thou graunt that there is a <hi>Church</hi> any where, thou muſt of neceſſitie grant, that <hi>Chriſts owne glorious Order</hi> is euen there alſo, though thou ſee it not. <hi>Blame then thy blindnes, complayne of thine owne Ignorance:</hi> For it is <hi>fearefull</hi> to call in queſtion <hi>Gods wiſedome:</hi> who being the <hi>Author</hi> of our <hi>bleſſed Church in England,</hi> hath alſo ſet a <hi>beautifull</hi> and <hi>glorious Order</hi> in the ſame: <hi>For hee is not the Author of Confuſion, but of Order; Rom.</hi> 9.20.<note place="margin">
+                  <hi>Rom.</hi> 9.20 1 <hi>Cor.</hi> 14.33, 40.</note> 1 <hi>Cor.</hi> 14.33.40.</p>
+            <p>Laſtly, let this bee well obſerued: <hi>As thou loueſt the life of thy ſoule,</hi> beware how thou call in Queſtion, <hi>perempto<g ref="char:EOLhyphen"/>rily,</hi> things thou <hi>vnderſtandeſt not,</hi> or affirme <hi>things</hi> thou knoweſt not; leſt thou deſerue iuſtly to bee <hi>rancked</hi> a<g ref="char:EOLhyphen"/>mongſt thoſe <hi>preſumptuous</hi> and <hi>ſelfe-willed ones,</hi> that are not afrayd to <hi>ſpeake of Dignities; whereas Angels, which are greater in power and might, bring not ray<g ref="char:EOLhyphen"/>ling Accuſation againſt them before the Lord:</hi>
+               <note place="margin">2 <hi>Pet.</hi> 2.10, 11, 12</note> 2 <hi>Pet.</hi> 2.10, 11, 12. This be<g ref="char:EOLhyphen"/>ing then diſpatched; Namely, <hi>What it is?</hi> and <hi>Where it is?</hi> A third was pro<g ref="char:EOLhyphen"/>poſed;
+<pb n="45" facs="tcp:184140:27"/> namely, <hi>When it began?</hi>
+            </p>
+            <p>For <hi>ſatisfaction</hi> in this, obſerue that this <hi>Kingdome</hi> hath beene <hi>open to all be<g ref="char:EOLhyphen"/>leeuers: Yea,</hi> Abraham, Iſaac, <hi>and</hi> Ia<g ref="char:EOLhyphen"/>cob, <hi>and all the Prophets, are ſayde to ſit downe here by faith:</hi> As it is written: <hi>We which haue beleeued do enter into reſt: Heb.</hi> 4.3. Alſo,<note place="margin">
+                  <hi>Heb.</hi> 4.3.</note> where vpon occaſi<g ref="char:EOLhyphen"/>on of the <hi>Centurions faith,</hi> our <hi>bleſſed Redeemer</hi> ſayd, <hi>I haue not found ſo great Faith, no not in Iſrael: And I ſay vnto you, that many ſhall come from the Eaſt and Weſt, and ſhall ſit downe with</hi> Abra<g ref="char:EOLhyphen"/>ham, Iſaac, <hi>and</hi> Iacob,<note place="margin">
+                  <hi>Mat.</hi> 8.10.11.</note> 
+               <hi>in the Kingdome of heauen: Mat.</hi> 8.10, 11. And in an other Scripture, ſpeaking (as here) ex<g ref="char:EOLhyphen"/>preſſely of the <hi>Calling of the Gentiles, and reiecting of the Iewes;</hi> it is thus writ<g ref="char:EOLhyphen"/>ten: <hi>That there ſhalbe weeping and gna<g ref="char:EOLhyphen"/>ſhing of teeth, when yee ſhall ſee</hi> Abraham, Iſaac, <hi>and</hi> Iacob, <hi>and all the Prophets in the Kingdome of God, and you your ſelues thrust out. And they ſhall come from the East, and from the Weſt, and from the North, and from the South,</hi>
+               <note place="margin">
+                  <hi>Luk.</hi> 13.28, 29.</note> 
+               <hi>and ſhall ſit downe in the Kingdome of God: Luk.</hi> 13.28, 29. And howſoeuer it may truly be ſayd, <hi>to be open to all beleeuers:</hi> yet it
+<pb n="46" facs="tcp:184140:28"/> may be as truely ſayd, that <hi>Iohn Baptiſt</hi> was the <hi>firſt proclaymer</hi> of it, in <hi>playne termes</hi> (as we ſpeake) as it is written; <hi>In thoſe dayes came Iohn the Baptiſt, prea<g ref="char:EOLunhyphen"/>ching in the Wilderneſſe of Iudea; and ſay<g ref="char:EOLhyphen"/>ing,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 3.1, 2.</note> 
+               <hi>Repent yee, for the Kingdome of hea<g ref="char:EOLhyphen"/>uen is at hand: Mat.</hi> 3.1, 2. After him the <hi>King</hi> himſelfe, or that <hi>great Pro<g ref="char:EOLunhyphen"/>phet</hi> began to make the ſame <hi>Procla<g ref="char:EOLhyphen"/>mation:</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 4.17, 23.</note> 
+               <hi>Mat.</hi> 4.17.23. And that the obſtinate <hi>Iewes</hi> might be left without all excuſe, he ſendeth out his <hi>Apoſtles</hi> and <hi>Diſciples</hi> into all their <hi>Cities</hi> and <hi>Villages,</hi> to proclayme the ſame things. And to confirme the <hi>truth</hi> of the <hi>Pro<g ref="char:EOLhyphen"/>clamation,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 10.1, 7. <hi>Mar.</hi> 6.13. <hi>Luk.</hi> 9.2.60.</note> they had power giuen them <hi>to cast out Diuels,</hi> and <hi>cure Diſeaſes: Mat.</hi> 10.1, 7. <hi>Mar.</hi> 6.13. <hi>Luk</hi> 9.2.60. Yea, our Sauiour tels the Phari<g ref="char:EOLhyphen"/>ſees, that it is amongſt them, euen at his being on earth: as it is written: <hi>The Kingdome of God, behold it is among you:</hi>
+               <note place="margin">
+                  <hi>Lu.</hi> 17.21</note> 
+               <hi>Luk.</hi> 17.21. As alſo his ſpeech to the Woman of Samaria is notable for this; <hi>The houre commeth, and now is, when the true Worſhippers ſhall worſhip the Father in ſpirit and truth:</hi>
+               <note place="margin">
+                  <hi>Io.</hi> 4.22.</note> 
+               <hi>Io.</hi> 4, 22. It is <hi>now</hi> (ſaith he) and ſhall come more
+<pb n="47" facs="tcp:184140:28"/> cleerely and manifeſtly <hi>hereafter.</hi> For at that time it was ſo <hi>darke a Miſtery,</hi> as that albeit the <hi>Diſciples,</hi> nay the <hi>A<g ref="char:EOLhyphen"/>poſtles themſelus</hi> heard it <hi>daily</hi> taught, yea and <hi>priuately</hi> were <hi>inſtructed</hi> in it; yet they did not <hi>vnderſtand,</hi> nor <hi>appre<g ref="char:EOLhyphen"/>hend</hi> the <hi>truth</hi> thereof: as it is euident by their <hi>qunſtion</hi> which they mooued, euen <hi>after Chriſts forty dayes abode</hi> with them, ſpeaking of things appertay<g ref="char:EOLhyphen"/>ning to this <hi>Kingdome:</hi> yet after that they asked this queſtion; <hi>Lord, wilt thou at this time reſtore the Kingdome to Iſrael?</hi> Suppoſing that it had beene ſome outward glorious <hi>reſtauration</hi> of their <hi>Nation</hi> to their <hi>former eſtate,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 1.3, 4, 5, 6.</note> that our Sauiour had ſo often taught; <hi>Act.</hi> 1.3, 4, 5, 6.</p>
+            <p>And we may further adde, that this <hi>Kingdome</hi> beganne not <hi>cleerely</hi> to appeare, vntill <hi>the Apoſtles re<g ref="char:EOLhyphen"/>ceiued power from aboue;</hi> as it was pro<g ref="char:EOLhyphen"/>miſed them where it is written, <hi>Be<g ref="char:EOLhyphen"/>hold, I ſend the promiſe of my Father vp<g ref="char:EOLhyphen"/>on you: but tarry you in the City of Ieru<g ref="char:EOLhyphen"/>ſalem, vntill you bee indued with power from on High: Luk.</hi> 24.49.<note place="margin">
+                  <hi>Luk.</hi> 24.49.</note> But eſpe<g ref="char:EOLhyphen"/>cially it began at <hi>Ieruſalems deſtruction.</hi>
+               <pb n="48" facs="tcp:184140:29"/> For thoſe things which were <hi>abroga<g ref="char:EOLhyphen"/>ted</hi> long before, euen when the <hi>vaile</hi> of the <hi>Temple</hi> rent from the <hi>top</hi> to the <hi>bottome:</hi>
+               <note place="margin">
+                  <hi>Matt.</hi> 27.50, 51.</note> 
+               <hi>Mat.</hi> 27.50, 51: yet then they might bee ſayd to vaniſh, as it is written: <hi>In that he ſaith; A new, he hath made the firſt olde: Now that which decay<g ref="char:EOLhyphen"/>eth and waxeth old is ready to vaniſh; For then verily the firſt had Ordinances of Di<g ref="char:EOLhyphen"/>uine Seruice,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 8.13 <hi>the</hi> 9.1.</note> 
+               <hi>and a worldly Sanctuary: Heb.</hi> 8.13. <hi>chap.</hi> 9.1. But this was fully made manifeſt in that glorious <hi>comming</hi> of <hi>Chriſt,</hi> to <hi>Iohn,</hi> in that won<g ref="char:EOLhyphen"/>derfull <hi>Reuelation.</hi>
+               <note place="margin">
+                  <hi>Reuel.</hi> 1.1.</note> 
+               <hi>Reuel.</hi> 1.1. Accor-to his owne prophecyes, where it is written: <hi>
+                  <g ref="char:V">Ʋ</g>erily I ſay vnto you, or I tell you of a truth, there be ſome ſtanding here which ſhall in no wiſe taſt of Death till they ſee, or til they haue ſeene the Sonne of Man comming in his Kingdome, or the Kingdom of God come with power:</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 16.28. <hi>Mar.</hi> 9.1. <hi>Lu.</hi> 9.27.</note> 
+               <hi>Mat.</hi> 16.28. <hi>Mar.</hi> 9.1. <hi>Luk.</hi> 9.27. Alſo of <hi>Iohn</hi> in particular, as of the <hi>eſpeciall man</hi> that ſhould ſee the <hi>Fulneſſe</hi> of it, it is written, that his Maſter ſaid to <hi>Peter, If I will that hee tarry till I come, what is that to thee?</hi>
+               <note place="margin">
+                  <hi>Ioh.</hi> 21.21, 22.</note> 
+               <hi>Ioh.</hi> 21.21, 22. So that then was the truth of that ſeene
+<pb n="49" facs="tcp:184140:29"/> which our Sauiour prophecied to that Woman; <hi>Woman, beleeue me the houre commeth, when yee ſhall neyther in this Mountaine, nor yet at Ieruſalem worſhip the Father: Io.</hi> 4.21.<note place="margin">
+                  <hi>Io.</hi> 4.21.</note> At that <hi>Time</hi> Ordinances of <hi>Diuine Seruice,</hi> and worldly <hi>Sanctuaries</hi> vaniſhed away, which ſerued but as <hi>ſhadowes</hi> of <hi>hea<g ref="char:EOLhyphen"/>uenly,</hi> or good things <hi>to come, and were not the very Image of the things the<g ref="char:cmbAbbrStroke">̄</g>ſelues:</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 10.1</note> 
+               <hi>Heb.</hi> 10.1. Then, and not till then things <hi>made</hi> with hands were ſhaken,<note place="margin">
+                  <hi>Heb.</hi> 12.26, 27. <hi>Iſ.</hi> 65.17.18. <hi>Reuel.</hi> 21.1.5.</note> that things <hi>not made</hi> might remaine: <hi>Heb.</hi> 12.26, 27. <hi>Iſ.</hi> 62.17, 18. <hi>Reu.</hi> 21.1.</p>
+            <p>The firſt <hi>point</hi> thus being <hi>pointed at,</hi> with the three branches thereof. The ſecond followes; which is, <hi>That it is to be entred into:</hi> For the firſt were little worth: as, <hi>To know what it is? Where to finde it? And when it began?</hi> If, ha<g ref="char:EOLhyphen"/>uing found it, wee make it not <hi>our owne,</hi> by taking <hi>poſſeſſion</hi> of it. There<g ref="char:EOLhyphen"/>fore concerning our <hi>entrance,</hi> wee will conſider <hi>three things:</hi> Firſt, <hi>What the Gate is by which wee enter?</hi> Secondly, <hi>Who, and when men may be ſaid to knocke therat?</hi> Thirdly, <hi>By what means we enter?</hi>
+               <pb n="50" facs="tcp:184140:30"/> The <hi>Gate</hi> or <hi>Doore</hi> is <hi>Chriſt:</hi> as it is written; <hi>I am the Doore of the ſheepe:</hi> and in the ſame Chapter; <hi>I am the Doore,</hi>
+               <note place="margin">
+                  <hi>Io.</hi> 10.7, 9</note> 
+               <hi>by me if any man enter in, hee ſhall be ſaued. Io.</hi> 10.7, 9. Here hee <hi>pro<g ref="char:EOLhyphen"/>claymeth</hi> himſelfe to bee the <hi>Doore</hi> or <hi>Gate</hi> by which we enter. And a little before his <hi>departure,</hi> he tels his <hi>Diſci<g ref="char:EOLhyphen"/>ples, That they do know whither he goeth, and the way alſo.</hi> But <hi>Thomas</hi> making a doubt, both of the place whither hee ſhould goe, and alſo of the way thi<g ref="char:EOLhyphen"/>ther. <hi>Chriſt</hi> anſwereth thus: <hi>I am the Way,</hi>
+               <note place="margin">
+                  <hi>Io.</hi> 14.4, 5, 6.</note> 
+               <hi>the Truth, and the Life; no man com<g ref="char:EOLhyphen"/>meth to the Father but by me: Io.</hi> 14.4, 5, 6.</p>
+            <p>This is then that <hi>new</hi> and <hi>liuing way,</hi> which is conſecrated to vs by the <hi>fleſh</hi> of <hi>Christ:</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 10.20.</note> 
+               <hi>Heb.</hi> 10.20. And thus much for the <hi>Gate</hi> or <hi>Doore</hi> by which we enter;<note place="margin">
+                  <hi>Mat.</hi> 7.13 <hi>Lu.</hi> 13.24 <hi>Pſa.</hi> 1.8.20.</note> which is termed, <hi>A Straight Gate: and wee are willed to ſtriue to enter in thereat: Matth.</hi> 7.13. <hi>Luk.</hi> 13.24. Euen, <hi>this Gate of the Lord: Pſa.</hi> 118.20.</p>
+            <p>The <hi>Gate</hi> being knowne: the next thing is, <hi>who they are,</hi> and when men may bee ſaid to knocke at this <hi>Gate?</hi>
+               <pb n="51" facs="tcp:184140:30"/> For anſwere heereunto; know, that true <hi>penitent ſinners,</hi> ſuch whoſe <hi>hearts</hi> are <hi>pricked,</hi> whoſe <hi>conſciences</hi> are <hi>la<g ref="char:EOLhyphen"/>ded,</hi> whoſe <hi>faces</hi> are <hi>couered</hi> with <hi>ſhame</hi> and <hi>confuſion:</hi> theſe are they who <hi>knocke</hi> thereat. As wee ſee at that Sermon of <hi>Peters;</hi> where it is written, <hi>Now when they heard this, they were pricked in their heart, and ſayd vnto Peter, and to the reſt of the Apoſtles, Men and brethren,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 2.37.</note> 
+               <hi>what ſhall wee doe? Act.</hi> 2.27. Heere you ſee theſe <hi>knocking aloude</hi> at this <hi>Gate.</hi>
+            </p>
+            <p>So the <hi>Publicane</hi> being <hi>couered</hi> with <hi>ſhame</hi> and <hi>confuſion,</hi> and full of <hi>indig<g ref="char:EOLhyphen"/>nation</hi> againſt himſelfe for <hi>ſinne:</hi> as wee ſee, by that hee ſtood a farre off; woulde not ſo much as lift vp his eyes to heauen, but ſmote his breſt, ſaying; nay, rather <hi>crying out,</hi> with much vehemency:<note place="margin">
+                  <hi>Lu.</hi> 18.13.</note> 
+               <hi>God be mer<g ref="char:EOLhyphen"/>cifull to me a ſinner: Luk.</hi> 18.13. He alſo <hi>knocks</hi> aloude at this <hi>Gate.</hi>
+            </p>
+            <p>The <hi>Theefe</hi> vpon the Croſſe knoc<g ref="char:EOLhyphen"/>ked alſo efectually at this <hi>Gate:</hi> when hee was come to himſelfe: His <hi>Eyes</hi> beeing opened to ſee his
+<pb n="52" facs="tcp:184140:31"/> fearefull eſtate, and his mouth alſo to reprooue ſinne in his fellow, and to cleere our bleſſed <hi>Redeemer;</hi> and no doubt with vehemencie he cryed out; <hi>Lord remember mee when thou commest into thy Kingdome:</hi>
+               <note place="margin">
+                  <hi>Luk.</hi> 23.40, 41, 42</note> 
+               <hi>Luk.</hi> 23.40, 41, 42.</p>
+            <p>Alſo, the <hi>Keeper</hi> of the <hi>Priſon,</hi> when hee was recouered of that deſperate purpoſe, at his ſudden amazement, calling for a light, ſprang in, &amp; came <hi>trembling,</hi> and fell downe before <hi>Paul</hi> and <hi>Silas:</hi> and brought them out of the Inner Priſon, into which hee had cruelly thruſt them: <hi>knocking</hi> alſo <hi>powerfully</hi> at this gate,<note place="margin">
+                  <hi>Act.</hi> 16.27, 28, 29, 30.</note> when he ſayde; <hi>Syrs, what muſt I doe to bee ſaued? Act.</hi> 16.27, 28, 29, 30.</p>
+            <p>So that we may very wel conclude, that <hi>penitent ones onely knocke:</hi> yea, then men doe knocke, when their eyes are opened to <hi>ſee</hi> their <hi>miſery,</hi> and the ne<g ref="char:EOLhyphen"/>ceſſitie of getting in: as it is written: <hi>Paul</hi> was ſent <hi>to open the eyes,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 26.18.</note> 
+               <hi>to turne</hi> (men) <hi>from darkneſſe to light, from the power of Sathan to God: Act.</hi> 26.18. So that the <hi>eyes</hi> muſt firſt be <hi>opened;</hi> ac<g ref="char:EOLhyphen"/>cording to that, where it is written: <hi>I will powre vpon the houſe of Dauid, and
+<pb n="53" facs="tcp:184140:31"/> vpon the Inhabitants of Ieruſalem the Spi<g ref="char:EOLhyphen"/>rit of Grace, and of ſupplications; and they ſhall looke vpon him whom they haue pier<g ref="char:EOLhyphen"/>ced: Zach.</hi> 12.10.<note place="margin">
+                  <hi>Zach.</hi> 12.10.</note> Heere alſo the <hi>eyes</hi> are ſaid to be <hi>opened.</hi> So it is written, <hi>That the Prodigall Sonne came to himſelfe:</hi>
+               <note place="margin">
+                  <hi>Luk.</hi> 15.17.</note> 
+               <hi>Luk.</hi> 15.17. That is, (as it is playne) he ſaw his miſerable condition, and wretched eſtate. Thus men doe then <hi>knocke,</hi> when they <hi>ſee</hi> themſelues <hi>ſhut out:</hi> for there is a neceſsitie of the <hi>ſight</hi> of <hi>miſery</hi> before euer men will <hi>in truth call for mercy:</hi> So that this <hi>knocking</hi> containes in it, not onely the <hi>ſight of ſinne;</hi> but alſo a <hi>godly ſorrow</hi> for it, a <hi>confeſſion</hi> proceeding from both, and a <hi>vehement deſire</hi> of <hi>mercy,</hi> crauing it as for <hi>life</hi> and <hi>death:</hi> So that the <hi>eyes</hi> be<g ref="char:EOLhyphen"/>ing <hi>opened</hi> to <hi>ſee,</hi>
+               <note place="margin">
+                  <hi>Eze.</hi> 11.19. <hi>Eze.</hi> 36.25, 26. <hi>I ter.</hi> 8.6. <hi>he</hi> 31.19 <hi>Iſ.</hi> 1.16. <hi>Mar.</hi> 9.43, 45, 4<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> the <hi>heart</hi> is alſo <hi>chan<g ref="char:EOLhyphen"/>ged</hi> to bewaile and lament: <hi>The ſtony heart is changed into a heart of fleſh: Ez.</hi> 11.19. Now this godly ſorrow, if it bee indeed that true ſorrow, it wor<g ref="char:EOLhyphen"/>keth <hi>carefulneſſe,</hi> which is a ſmiting on the thigh, by ſaying, <hi>What haue I done? Ier.</hi> 8.6. <hi>the</hi> 31.19. Alſo, a <hi>cleering</hi> of themſelues by an earneſt endea<g ref="char:EOLhyphen"/>uour to be freed of ſinne: <hi>Mar.</hi> 9.43,
+<pb n="54" facs="tcp:184140:32"/> 36, 47. <hi>Iſ.</hi> 1.16. and auoyding the occaſions and meanes, by which they may bee made more guilty. Alſo, an <hi>indignation,</hi> which is an horror, euen with gnaſhing of teeth at the very naming or memory of ſinne:<note place="margin">
+                  <hi>Lu.</hi> 18.13</note> 
+               <hi>Luk<g ref="char:punc">▪</g>
+               </hi> 18.13. yea, ſuch an vnfeined deteſtation thereof, as is not to be expreſſed Alſo ſuch a <hi>feare,</hi> as that ſuch an one will tremble at the leaſt motion of ſinne: <hi>Iob.</hi> 31.23.<note place="margin">
+                  <hi>Iob.</hi> 31.23 <hi>Luk.</hi> 23.40. <hi>Lu.</hi> 18.13 <hi>Pſal.</hi> 51.</note> 
+               <hi>Luke</hi> 23.40. and euery temptation thereunto, makes the ve<g ref="char:EOLhyphen"/>ry heart to quake. With theſe, there is alſo a <hi>vehement deſire, Luk.</hi> 18.13. <hi>Pſ.</hi> 51. of pardon, which doth enforce ſuch an one to <hi>aske</hi> inſtantly, to <hi>ſeeke</hi> conſtantly, and to <hi>knocke</hi> inceſſantly at this <hi>Gate:</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 7.7.</note> 
+               <hi>Mat.</hi> 7.7. Yea to craue mercy, with much vehemency, and loude crying with teares:<note place="margin">
+                  <hi>Heb.</hi> 5.7.</note> 
+               <hi>Hebr.</hi> 5.7. To this is added <hi>Zeale,</hi> by which the Penitent doe now deteſt ſinne, euen in others as well as themſelues:<note place="margin">
+                  <hi>Lu.</hi> 23.40 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Pet.</hi> 2.7.</note> 
+               <hi>Luk.</hi> 23 40. 2 <hi>Pet,</hi> 2.7. And laſtly <hi>Reuenge,</hi> whereby the penitent do abſtaine, e<g ref="char:EOLhyphen"/>uen from lawfull things, hauing for<g ref="char:EOLhyphen"/>mally aduentured on vnlawful: as for example; hauing ſinned by <hi>Gluttony,</hi>
+               <pb n="55" facs="tcp:184140:32"/> they now doe tame their bodies by <hi>faſting: Pſalm.</hi> 109.24.<note place="margin">
+                  <hi>Pſ.</hi> 109.24</note> being before <hi>filthie,</hi> now they brydle euen <hi>mari<g ref="char:EOLhyphen"/>age deſires:</hi> hauing abuſed pretious <hi>Time,</hi> they now <hi>redeeme it,</hi>
+               <note place="margin">
+                  <hi>Eph.</hi> 5.16.</note> 
+               <hi>Eph.</hi> 5.16. from ſleepe, and ſuch other things that ſteale it from them. All theſe are ſet downe in that of the <hi>Apoſtle,</hi> where it is thus written: <hi>Behold this ſelfe ſame thing that yee ſorrowed after a godly ſort; what carefulneſſe wrought it in you, yea cleereing your ſelues, yea indignation, yea feare, yea vehement deſire, yea Zeale, yea Reuenge:</hi>
+               <note place="margin">2 <hi>Cor.</hi> 7.11</note> 2 <hi>Cor.</hi> 7.11.</p>
+            <p>Now theſe are as ſo many <hi>infallible tokens</hi> of one in the eſtate of <hi>Penitency:</hi> Such an one doth indeed knocke a<g ref="char:EOLhyphen"/>loude for <hi>mercy,</hi> that hath ſuch a deep ſenſe of <hi>miſery:</hi> and he that hath not all of theſe, hath neuer a one of them. Theſe were eaſily to be ſhewed in the fore-mentioned examples, of the <hi>Publicane,</hi> the <hi>Theefe</hi> vpon the <hi>Croſſe,</hi> the <hi>Men in the Acts,</hi> and the <hi>Kee<g ref="char:EOLhyphen"/>per</hi> of the <hi>Priſon.</hi> Thus you now ſee who doe knocke, and when men may be ſayd truely to knocke at this <hi>Gate,</hi>
+               <pb n="56" facs="tcp:184140:33"/> Euen when being <hi>ſicke,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 9.12 <hi>Hoſ.</hi> 6.1.</note> they deſire the Phiſition: <hi>Mat.</hi> 9.12. Being <hi>woun<g ref="char:EOLhyphen"/>ded,</hi> they deſire to be healed: <hi>Hoſ.</hi> 6.1. Being <hi>impriſoned,</hi>
+               <note place="margin">
+                  <hi>Iſ.</hi> 61.1, 2.</note> they craue libertie as for life and death: <hi>Iſ.</hi> 61.1, 2. Be<g ref="char:EOLhyphen"/>ing <hi>touched</hi> with a <hi>deepe ſenſe</hi> of their <hi>miſerie,</hi> they cry aloude, &amp; with much vehemency to God for mercy. Such, and none but ſuch doe knocke at this <hi>Gate:</hi> they, and none but they thruſt at this <hi>Doore.</hi>
+            </p>
+            <p>The <hi>Doore</hi> or <hi>Gate</hi> now knowne, and who doe knocke thereat being cleerely diſcouered: it reſteth to bee ſhewed, <hi>Whereby men doe enter?</hi> That this may appeare plainely vnto vs, let vs conſider of that, where it is writ<g ref="char:EOLhyphen"/>ten:<note place="margin">
+                  <hi>Heb.</hi> 4.3.</note> 
+               <hi>We which haue beleeued doe enter in<g ref="char:EOLhyphen"/>to reſt: Heb.</hi> 4.3. And againe, <hi>Ex<g ref="char:EOLhyphen"/>cept your righteouſnes exceede the righte<g ref="char:EOLhyphen"/>ouſnes of the Scribes and Phariſees, yee ſhall in no caſe enter into the Kingdome of heauen:</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 5.20.</note> 
+               <hi>Mat.</hi> 5.20. Alſo, that where it is written, <hi>We being iuſtified by faith, haue peace with God, through our Lord Ieſus Christ: By whom alſo we haue ac<g ref="char:EOLhyphen"/>ceſſe by Faith into this Grace wherein wee ſtand:</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 5.1.2.</note> 
+               <hi>Rom.</hi> 5.1, 2. Out of theſe, and
+<pb n="57" facs="tcp:184140:33"/> very many moe which might bee al<g ref="char:EOLhyphen"/>ledged, we may <hi>truely conclude:</hi> That <hi>by faith</hi> men enter into <hi>Chriſts King<g ref="char:EOLhyphen"/>dome;</hi> as it is written: That ſuch, whoſe <hi>eyes</hi> are firſt <hi>opened;</hi> and withall, are <hi>turned</hi> from <hi>darkneſſe</hi> to <hi>light;</hi> and from the <hi>power</hi> of <hi>Sathan,</hi> to <hi>God:</hi> ſuch <hi>by</hi> faith in Chriſt <hi>do receiue forgiueneſſe of their ſinnes,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 26.18. <hi>Col.</hi> 1.12.13.</note> 
+               <hi>and inheritance amongſt the Saints in light: Act.</hi> 26.18. <hi>Col.</hi> 1.12, 13. So our bleſſed <hi>Redeemer</hi> ſpeaketh expreſſely to <hi>him</hi> that demaunded, <hi>What hee muſt doe to enter into life?</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 19.17. <hi>Mar.</hi> 10.17.</note> His anſwer to him was, <hi>Keepe the comman<g ref="char:EOLhyphen"/>dements: Mat.</hi> 19.17. <hi>Mar.</hi> 10.17.</p>
+            <p>Now wee <hi>keepe them</hi> by no other meanes then by <hi>faith in Christ;</hi> as it is written: <hi>What ſhall wee doe, that wee might worke the works of God? Ieſus an<g ref="char:EOLhyphen"/>ſwered, and ſayd vnto them:</hi>
+               <note place="margin">
+                  <hi>Io.</hi> 6.28.29.</note> 
+               <hi>This is the worke of God; That yee beleeue on him whom he hath ſent: Io.</hi> 6.28, 29. And in another place it is written, <hi>This is his commaundement; That yee ſhould be<g ref="char:EOLhyphen"/>leeue on the Name of his Son Ieſus Chriſt; and loue one another,</hi>
+               <note place="margin">1 <hi>Io.</hi> 3.23.</note> 
+               <hi>as he gaue comman<g ref="char:EOLhyphen"/>dement:</hi> 1 <hi>Io.</hi> 3.23. And in another place it is written: <hi>Not euery one that
+<pb n="58" facs="tcp:184140:34"/> ſaith, Lord, Lord, ſhall enter into the King<g ref="char:EOLhyphen"/>dome of heauen:</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 7.21 <hi>Reuel.</hi> 22.14.</note> 
+               <hi>but he that doth the will of my Father which is in heauen: Mat.</hi> 7.21. <hi>Reuel.</hi> 22.14. And you haue ſeene before, that they onely doe the will of God, that beleeue on him whom he hath ſent So then we may conclude, <hi>That</hi> Repentance <hi>doth aske,</hi> Faith <hi>doth receiue:</hi> Repenatnce <hi>doth ſeeke,</hi> Faith <hi>doth finde:</hi> Repentance <hi>doth knocke,</hi> Faith <hi>doth open</hi> this <hi>Gate</hi> to thoſe that ſhall be ſaued. In a word, Repentance <hi>doth open the eyes, to ſee a miſerable condition; &amp; turneth ſuch with<g ref="char:EOLhyphen"/>all to God, to ſeeke mercy. Faith doth re<g ref="char:EOLhyphen"/>ceiue Chriſt, and withall,</hi> forgiuenes of ſin;<note place="margin">
+                  <hi>Io.</hi> 1.12.</note> 
+               <hi>&amp; the</hi> right <hi>wherby we do indeed</hi> be<g ref="char:EOLhyphen"/>come the Sonnes of God: <hi>Io.</hi> 1.12.</p>
+            <p>The two firſt principall things be<g ref="char:EOLhyphen"/>ing thus diſpatched: as, That wee muſt firſt, <hi>ſeeke,</hi> and hauing found, <hi>enter:</hi> the third followeth: which is, <hi>That thoſe that are entred muſt walke wor<g ref="char:EOLhyphen"/>thy of ſuch a bleſſed and glorious eſtate.</hi> And that this may bee alſo made ma<g ref="char:EOLhyphen"/>nifeſt, wee will in this obſerue two things: firſt, the <hi>King:</hi> ſecondly, the <hi>Subiects:</hi> If wee reſpect the <hi>King,</hi> it
+<pb n="59" facs="tcp:184140:34"/> offreth vs a threefolde meditation: Firſt, His <hi>Preſence:</hi> Secondly, His <hi>Mercy:</hi> Thirdly, His <hi>Iustice.</hi>
+            </p>
+            <p>For his <hi>Preſence,</hi> he is to be conſide<g ref="char:EOLhyphen"/>red of as a <hi>God,</hi> not a farre off onely, but at hand alſo: Euen ſuch a <hi>King,</hi> as that his <hi>Priuy Chamber</hi> cannot con<g ref="char:EOLhyphen"/>taine him, as other Kings, much leſſe <hi>a little Cloſſet.</hi> But hee filleth heauen and earth, as his owne words do wit<g ref="char:EOLhyphen"/>neſſe, where it is written; <hi>Am I a God at hand, and not a God a farre off? Can any hide himſelfe in ſecret places,</hi>
+               <note place="margin">
+                  <hi>Ier.</hi> 23.23.</note> 
+               <hi>that I ſhall not ſee him, ſaith the Lord? Ier.</hi> 23.23. And in another place; <hi>All things are naked and opened vnto the eyes of him with whome wee haue to doe: neyther is there any creature that is not manifest in his ſight: Heb.</hi> 4.13.<note place="margin">
+                  <hi>Heb.</hi> 4.13.</note> Therefore his eyes are ſaid to <hi>be as a flame of fire; Reu.</hi> 1.14.</p>
+            <p>For his <hi>Mercy,</hi> the Prophet <hi>Dauid</hi> offereth that to our meditation, where it is written: <hi>But mercy or forgiueneſſe is with thee, that thou mayſt bee feared: Pſalm.</hi> 130.4. So alſo his Iudgements are to ſet before our eyes; as the ſame bleſſed <hi>Prophet</hi> hath
+<pb n="60" facs="tcp:184140:35"/> giuen vs an example;<note place="margin">
+                  <hi>Pſ.</hi> 119.30</note> 
+               <hi>The way of truth, &amp; thy Iudgements haue I layd before me.</hi> Alſo, <hi>My fleſh trembleth for feare of thee, and I am afrayd of thy Iudgements:</hi>
+               <note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>er.</hi> 120.</note> ver. 120. And it is worthy to be obſerued, that it is vſuall with the <hi>bleſſed Spirit</hi> to ioyne theſe together, when hee preſſeth the <hi>Saints</hi> on to <hi>perfection.</hi> They are allured by <hi>Mercy,</hi> and pro<g ref="char:EOLhyphen"/>uoked by <hi>Iuſtice:</hi> as wee will ſee it cleered by places for the very ſame purpoſe; where it is written: <hi>Wee receiuing a Kingdome which cannot bee mooued,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 12.28, 29.</note> 
+               <hi>let vs hold faſt the grace receiued, that we may ſerue God acceptably with re<g ref="char:EOLhyphen"/>uerence and godly feare. For our God is a conſuming fire: Heb.</hi> 12.28.29. Here is both <hi>Mercy</hi> and <hi>Iudgement</hi> to bee conſidered: <hi>Mercy,</hi> in affoording vs the grace to bee receiued into this Kingdome. <hi>Iuſtice,</hi> in theſe words: <hi>God is a conſuming ſire.</hi> So where it is written: <hi>Bee yee ready; for in ſuch an houre as yee thinke not, the Sonne of Man commeth: who then is a faithfull and wiſe Seruant, whom his Lord hath made Ruler ouer his Houſehold, to giue them meate in due ſeaſon? Bleſſed is that Seruant, whom
+<pb n="61" facs="tcp:184140:35"/> his Lord when hee commeth ſhall finde ſo doing: <g ref="char:V">Ʋ</g>erily I ſay vnto you, he ſhall make him Ruler ouer all his Goods:</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 24.44, 45, 46, 47.</note> 
+               <hi>Matt.</hi> 24.44, 45, 46, 47. There you ſee <hi>Mer<g ref="char:EOLhyphen"/>cie</hi> to allure. And it followeth; <hi>But, and if that Seruant ſhall ſay in his heart, My Lord delayeth his comming; and ſhall begin to ſmite his fellow Seruants, and to eate and drinke with the Drunken. The Lord of that Seruant ſhall come in a day, when he looketh not for him, &amp; in an houre that hee is not aware off, and ſhall cut him aſunder, and appoint him his portion with Hypocrites;</hi>
+               <note place="margin">
+                  <hi>Ver.</hi> 48, 49, 50, 51</note> 
+               <hi>there ſhall be weeping and gnaſhing of teeth: Verſes,</hi> 48, 49.50, 51. Here is <hi>Iuſtice</hi> to prouoke. Adde to this that, where it is written: <hi>Take heede to your ſelues, leſt at any time your hearts be ouercharged with ſurfetting and drunkenneſſe, and cares of this life; and ſo that day come vpon you vnawares: For as a ſnare it ſhall come on all them that dwell on the face of the whole earth. Watch yee therefore, and pray alwaies, that yee may bee accounted worthy to eſcape all theſe things that ſhall come to paſſe,</hi>
+               <note place="margin">
+                  <hi>Luk.</hi> 21.34, 35.36.</note> 
+               <hi>and to ſtand before the Sonne of Man: Luk.</hi> 21.34, 35, 36. Heere you alſo ſee <hi>Iuſtice</hi> and
+<pb n="62" facs="tcp:184140:36"/> 
+               <hi>Mercy.</hi> All <hi>theſe three</hi> are notably ex<g ref="char:EOLhyphen"/>preſſed and repeated to thoſe <hi>ſeuen Churches</hi> to which <hi>Iohn</hi> wrote:<note place="margin">
+                  <hi>Reuel.</hi> 2. <hi>and</hi> 3.</note> 
+               <hi>Reuel.</hi> 2. <hi>and</hi> 3. Eſpecially to the <hi>fiue</hi> that are reprooued: as <hi>Epheſus, Pergamus, Thiatira, Sardis and Laodicea.</hi> His <hi>pre<g ref="char:EOLhyphen"/>ſence</hi> with them all, in theſe words, ſeuen times repeated; <hi>I know thy works.</hi> His <hi>Mercy</hi> to euery of them, in theſe words; <hi>To him that ouercommeth I will giue:</hi> as many times vſed. His <hi>Iuſtice,</hi> plainely to thoſe <hi>fiue,</hi> in diuers phra<g ref="char:EOLhyphen"/>ſes; and <hi>more hiddenly</hi> to the other <hi>two,</hi> in theſe words; <hi>Hee ſhall not bee hurt of the ſecond death.</hi>
+               <note place="margin">
+                  <hi>Chap.</hi> 2.11 <hi>the</hi> 3.12.</note> And, <hi>Hee ſhall goe no more out. Chap.</hi> 2.11. <hi>the</hi> 3.12. And ſo much for the <hi>firſt help</hi> to walke worthy in reſpect of our <hi>King.</hi>
+            </p>
+            <p>The <hi>ſecond helpe</hi> to walke worthie is taken from the <hi>Communion</hi> amongſt the <hi>Saints</hi> themſelues. This principal<g ref="char:EOLhyphen"/>ly ſtandeth in their <hi>mutuall prayers</hi> one for another: the <hi>exhortations, repre<g ref="char:EOLhyphen"/>henſions,</hi> and <hi>inſtructions,</hi> that they vſe one to another. Their prouiding for the <hi>neceſſities</hi> one of another; whether <hi>ſpirituall</hi> or <hi>bodily.</hi> Finally, in vſing all good meanes for the <hi>building vp</hi> one
+<pb n="63" facs="tcp:184140:36"/> of another. That theſe things ought to be, or rather ca<g ref="char:cmbAbbrStroke">̄</g>not but be amongſt thoſe that are indeed <hi>Subiects</hi> of this <hi>Kingdom;</hi> let vs conſider what is writ<g ref="char:EOLhyphen"/>ten to this purpoſe: &amp; firſt for <hi>Prayer.</hi> The Apoſtle hauing furniſhed a <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi> with <hi>Armor</hi> for his great <hi>Combat,</hi> addeth this: <hi>Pray alwaies, with all prayer and ſupplication in the Spirit, and thereun<g ref="char:EOLhyphen"/>to with all perſeuerance,</hi>
+               <note place="margin">
+                  <hi>Eph.</hi> 6.18.</note> 
+               <hi>and ſupplication for all Saints: Eph.</hi> 6.18. For <hi>Exhorta<g ref="char:EOLhyphen"/>tions: Exhort one another daily, while it is called to day,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 3.13</note> 
+               <hi>leſt any of you be hardned through the deceitfulneſſe of ſinne: Heb.</hi> 3, 13. For <hi>Reprehenſion</hi> or <hi>Reproofe:</hi>
+               <note place="margin">1 <hi>Tim.</hi> 5.20.</note> 
+               <hi>Them that ſinne, rebuke before all that others may feare:</hi> 1 <hi>Tim.</hi> 5.20. For <hi>Inſtructi<g ref="char:EOLhyphen"/>on: Let the Word of Christ dwell in you richly, in all wiſedome, teaching, and ad<g ref="char:EOLhyphen"/>moniſhing one another, in Pſalmes, and Hymnes, and Spirituall ſongs,</hi>
+               <note place="margin">
+                  <hi>Col.</hi> 3.16.</note> 
+               <hi>ſinging with grace in your hearts vnto the Lord: Col.</hi> 3.16. Prouiding both for <hi>ſpirituall</hi> and <hi>bodily eſtate:</hi> For <hi>Spirituall: Bre<g ref="char:EOLhyphen"/>thren, if a man be ouertaken in a fault: yee which are ſpirituall, reſtore ſuch an one with the ſpirit of meekneſſe;</hi>
+               <note place="margin">
+                  <hi>Gal.</hi> 6.1.</note> 
+               <hi>conſidering thy ſelfe, leſt thou alſo be tempted: Cal.</hi> 6.1
+<pb n="64" facs="tcp:184140:37"/> For the <hi>Body:</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 12.13.</note> 
+               <hi>Diſtributing to the neceſ<g ref="char:EOLhyphen"/>ſitie of the Saints, giuen to Hoſpitalitie: Rom.</hi> 12.13. Finally, we are to vſe all good meanes for the <hi>building vp</hi> one of another:<note place="margin">1 <hi>Theſ.</hi> 5.11.</note> as it is written; <hi>Comfort your ſelues together, &amp; edifie one another.</hi> And, <hi>Let vs hold faſt the Profeſſion of our Faith without wauering, (for he is faithful that promiſed.) And let vs conſider one another, to prouoke vnto Loue, and to good works: Not forſaking the aſſembling of our ſelues together, as the manner of ſome is; but exhorting one another, and ſo much the more, as you ſee the day ap<g ref="char:EOLhyphen"/>proching:</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 10.23, 24, 25</note> 
+               <hi>Heb.</hi> 10.23, 24, 25. So al<g ref="char:EOLhyphen"/>ſo, <hi>Keepe your ſelues in the Loue of God, looking for the mercy of our Lord Ieſus Chriſt, vnto eternall life. Building vp your ſelues on your moſt holy faith:</hi>
+               <note place="margin">
+                  <hi>Iude ver.</hi> 20.21.</note> 
+               <hi>Praying in the holy Ghoſt: Iude</hi> 20.21. And, <hi>Of ſome haue compaſſion, making a diffe<g ref="char:EOLhyphen"/>rence: And others ſaue with feare, pulling them out of the fire:</hi>
+               <note place="margin">
+                  <hi>Ver.</hi> 22.23</note> 
+               <hi>ver.</hi> 22, 23. Adde to this, thoſe bleſſed examples of be<g ref="char:EOLhyphen"/>leeuers, where it is written: <hi>There were added about three thouſand ſoules. And they continued ſtedfaſtly in th'apoſtles doctrine and fellowſhip, and in breaking of
+<pb n="65" facs="tcp:184140:37"/> bread, and in prayers, And feare came vpon euery ſoule: And all that beleeued were together, and had all things common:</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 2.41, 42, 43, 44 45.</note> 
+               <hi>And ſolde their poſſeſſions and goods, and parted them to all men, as euery man had neede: Act.</hi> 2.41, 42, 43, 44, 45. Alſo, in another place: <hi>And the multitude of them that beleeued were of one heart, and one ſoule: neyther ſaide any of them that ought that hee poſſeſſed, was his owne, but had all things common:</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 4.32.34.</note> 
+               <hi>Neyther was there any among them that lacked: Act.</hi> 4.32.34. Alſo, <hi>
+                  <g ref="char:V">Ʋ</g>pon the firſt day of the weeke, when the Diſciples came toge<g ref="char:EOLhyphen"/>ther to breake bread, Paul preached vnto them, ready to depart on the morrow, and continued his ſpeech vntill midnight:</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 20.7.</note> 
+               <hi>Act.</hi> 20.7. And thus you ſee both by <hi>Pre<g ref="char:EOLhyphen"/>cepts</hi> and <hi>Examples,</hi> what is required of the <hi>Subiects of Chriſts Kingdome</hi> a<g ref="char:EOLhyphen"/>mongſt themſelues, or one towards another for their <hi>building</hi> and <hi>growth;</hi> that ſo they may walke worthy of the high and excellent calling, to the which they are called. And <hi>to conclude,</hi> you haue now the briefe heads of this <hi>great buſineſſe:</hi> namely, the <hi>diſcouery</hi> of this <hi>Kingdome of Chriſt,</hi> or the <hi>laying
+<pb n="66" facs="tcp:184140:38"/> opon</hi> of the <hi>three neceſſary circumſtances,</hi> about this <hi>one neceſſary thing:</hi> As, that wee muſt <hi>firſt ſeeke it,</hi> and in ſeeking that wee may finde, wee now know what it is; where, and when it began. Hauing <hi>found it,</hi> we muſt <hi>enter:</hi> and to this ende the <hi>Gate</hi> is made knowne. <hi>Who are they that knock?</hi> and <hi>what giues admittance?</hi> The <hi>penitent</hi> only knocke; <hi>True beleeuers</hi> enter. To this is added the meanes or <hi>helps</hi> to walke worthy: and heere wee are taught to haue an eye to <hi>God,</hi> and <hi>one to another.</hi> To God, or <hi>Chriſt</hi> our King; and to remember his <hi>Preſence, Mercy,</hi> and <hi>Iuſtice.</hi> To the <hi>Subiects;</hi> by mutuall prayers, exhor<g ref="char:EOLhyphen"/>tations, reprehenſions, inſtructions, and by vſing all other meanes, both <hi>publique</hi> and <hi>priuate,</hi> for the good both of <hi>ſoules and bodies.</hi> And thus by Gods mercy vvee haue diſpatched this weighty worke. Deſiring <hi>God</hi> to ſend foorth euery day more and more <hi>Scribes inſtructed</hi> vnto this <hi>Kingdome,</hi> able to bring forth out of their Trea<g ref="char:EOLhyphen"/>ſuries,<note place="margin">
+                  <hi>Met.</hi> 13.52.</note> things <hi>new</hi> and <hi>olde: Mat.</hi> 13.52. And ſo to <hi>God</hi> the <hi>Father,</hi> that hath <hi>giuen</hi> this <hi>Kingdome</hi> to the <hi>Sonne:</hi>
+               <pb n="67" facs="tcp:184140:38"/> and to <hi>God</hi> the <hi>Sonne,</hi> that <hi>deſired,</hi> hath <hi>receiued,</hi> and <hi>ſhall deliuer vp</hi> this <hi>King<g ref="char:EOLhyphen"/>dome</hi> to the <hi>Father:</hi> and to <hi>God</hi> the <hi>holy Ghoſt,</hi> by whom, both the <hi>Father</hi> and the <hi>Sonne</hi> doe gouerne this <hi>King<g ref="char:EOLhyphen"/>dome:</hi> Euen to theſe <hi>Three,</hi>
+               <note place="margin">
+                  <hi>Io.</hi> 10.30. 1 <hi>Io.</hi> 5.7.</note> which are yet but <hi>one inuiſible and onely wiſe God: Io.</hi> 10.30. 1 <hi>Io.</hi> 5.7. Let vs aſcribe all <hi>Glory</hi> and <hi>Honour,</hi> all <hi>Domini<g ref="char:EOLhyphen"/>on</hi> and <hi>Maieſtie,</hi> euen hence<g ref="char:EOLhyphen"/>forth, and <hi>for euermore, Amen.</hi>
+            </p>
+            <q>
+               <bibl>ROM. 11.33, 34, 35, 36.</bibl>
+               <p>
+                  <hi>O</hi> The Depth of the Riches both of the Wiſedome and of the Knowledge of GOD! How vnſearchable are his Iudgements, &amp; his waies paſt finding out! For who hath knowne the minde of the Lord, or who hath beene his Counſeller? Or who hath first giuen to him, and it ſhall be recompenſed to him againe? For of him, and through him, and to him, are all things: to whom be glory for euer, <hi>Amen.</hi>
+               </p>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:184140:39"/>
+            <head>Faults Eſcaped in the Printing.</head>
+            <p>Page 4. line laſt, God. Pag. 15. line 24. Lavves. Pag. 36. line 8. confeſsing the ſame truh, by the power of the ſame ſpirit, obſeruing the ſame things, doing the ſame duties. Pag. 54. line 26. formerly. The reſt mend with your Pen.</p>
+            <pb facs="tcp:184140:39"/>
+         </div>
+      </back>
+   </text>
+</TEI>
